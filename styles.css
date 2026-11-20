@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=DM+Sans:wght@400;500;600;700&display=swap');
+:root{--bg:#080d21;--panel:#111a35;--yellow:#ffe000;--paper:#f2efe4;--ink:#161924;--muted:#aeb6cb;--red:#f15a64}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:#f6f4ea;font:16px/1.65 'DM Sans',system-ui,sans-serif}a{color:inherit}a:focus-visible,button:focus-visible{outline:3px solid var(--yellow);outline-offset:4px}.wrap{width:min(1100px,calc(100% - 40px));margin:auto}.site-head{border-bottom:2px solid #29324a;background:#080d21f2;position:sticky;top:0;z-index:5}.head-row{display:flex;justify-content:space-between;align-items:center;gap:20px;min-height:72px}.wordmark{font:900 30px/1 'Barlow Condensed',Impact,sans-serif;letter-spacing:.06em;color:var(--yellow);text-decoration:none;transform:rotate(-1deg)}nav{display:flex;gap:24px}nav a{font-weight:700;text-decoration:none;font-size:13px;letter-spacing:.08em;text-transform:uppercase}nav a:hover,.link:hover{color:var(--yellow)}.hero{padding:58px 0 62px;background:radial-gradient(circle at 78% 30%,#1d2c55 0,transparent 48%),#080d21}.hero-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,440px);gap:60px;align-items:center}.eyebrow{color:var(--yellow);font-weight:800;letter-spacing:.16em;text-transform:uppercase;font-size:12px}.hero h1,.page-title{font:900 clamp(58px,9vw,116px)/.86 'Barlow Condensed',Impact,sans-serif;letter-spacing:-.018em;text-transform:uppercase;margin:18px 0 24px}.hero h1 span,.page-title span{color:var(--yellow)}.hero p{color:#c8cede;max-width:560px;font-size:19px}.cover{display:block;width:100%;box-shadow:15px 15px 0 #ffdf00;transform:rotate(1.4deg);border:5px solid #f6f2e8}.btn{display:inline-block;background:var(--yellow);color:#0b1024;text-decoration:none;font-weight:900;text-transform:uppercase;letter-spacing:.07em;padding:13px 22px;border:0;cursor:pointer}.btn:hover{background:#fff}.section-title{font:900 43px/1 'Barlow Condensed',Impact,sans-serif;text-transform:uppercase;margin:0 0 26px}.archive{padding:58px 0 90px}.episode-card{display:grid;grid-template-columns:110px 1fr auto;gap:28px;align-items:center;padding:28px;background:#121b34;border:1px solid #303c5a;text-decoration:none}.episode-card:hover{border-color:var(--yellow)}.number{font:900 67px/1 'Barlow Condensed',Impact,sans-serif;color:var(--yellow)}.episode-card h3{font:800 30px/1.1 'Barlow Condensed',Impact,sans-serif;margin:5px 0}.episode-card p{margin:0;color:var(--muted);font-size:14px}.tag{color:var(--yellow);font-weight:800;font-size:12px;letter-spacing:.12em;text-transform:uppercase}.footer{border-top:1px solid #303c5a;padding:26px 0;color:#9faac4;font-size:13px}.episode-hero{padding:50px 0 42px;border-bottom:1px solid #303c5a;background:linear-gradient(110deg,#080d21,#182449)}.page-title{font-size:clamp(55px,8vw,96px);max-width:800px}.dek{max-width:740px;color:#c7cedd;font-size:18px}.meta{display:flex;gap:14px;flex-wrap:wrap;color:#b2bdd2;font-size:13px;margin:20px 0}.meta span+span:before{content:'•';margin-right:14px;color:var(--yellow)}.audio-panel{margin:36px 0;background:#172343;border-left:5px solid var(--yellow);padding:25px}.audio-panel h2{font:800 26px 'Barlow Condensed',Impact,sans-serif;margin:0 0 8px}.audio-panel p{margin:0 0 16px;color:#c8cfe1}.audio-panel a{color:var(--yellow);font-weight:800}.page-body{padding:35px 0 80px}.jump{display:flex;gap:12px;flex-wrap:wrap;margin:0 0 30px}.jump a{border:1px solid #47516c;padding:8px 14px;text-decoration:none;font-size:13px;font-weight:800}.jump a:hover{border-color:var(--yellow)}.paper{background:var(--paper);color:var(--ink);padding:clamp(24px,5vw,64px);box-shadow:12px 12px 0 #182344}.paper>h2{font:900 47px/1 'Barlow Condensed',Impact,sans-serif;text-transform:uppercase;margin:0 0 12px}.paper .intro{color:#5c6170;font-size:14px;border-bottom:2px solid #d9d4c9;padding-bottom:20px}.essay-section{margin-top:38px}.essay-section h2{font:800 33px/1.05 'Barlow Condensed',Impact,sans-serif;margin:0 0 15px}.essay-section p{font-size:16px;line-height:1.83;max-width:780px}.results{width:100%;border-collapse:collapse;margin:26px 0}.results td,.results th{text-align:left;padding:12px 9px;border-bottom:1px solid #d3cfc5}.results th{font-size:12px;text-transform:uppercase}.results strong{color:#8e172b}.transcript{margin-top:50px;padding:26px;border:1px solid #46516d;background:#10192f}.transcript h2{font:900 38px 'Barlow Condensed',Impact,sans-serif;margin:0}.transcript summary{cursor:pointer;color:var(--yellow);font-weight:800;padding:16px 0}.transcript pre{white-space:pre-wrap;overflow-wrap:anywhere;font:14px/1.85 'DM Sans',sans-serif;color:#d5dbea;max-height:650px;overflow:auto}.small{font-size:13px;color:#aab4ca}.top-link{display:inline-block;margin-bottom:20px;color:var(--yellow);font-size:13px;font-weight:800;text-decoration:none}@media(max-width:760px){.hero-grid{grid-template-columns:1fr;gap:35px}.cover{max-width:380px}.episode-card{grid-template-columns:65px 1fr;gap:12px}.episode-card .arrow{display:none}.number{font-size:48px}.head-row{min-height:64px}.wordmark{font-size:24px}.hero{padding:40px 0}.paper{box-shadow:none}.meta{gap:8px}}
+
+/* Identity revision: use the lettering lifted directly from the original cover. */
+.wordmark{display:block;width:205px;transform:none;line-height:0;flex-shrink:0}
+.wordmark img{display:block;width:100%;height:auto}
+.hero-logo{margin:20px 0 24px;max-width:620px}
+.hero-logo img{display:block;width:100%;height:auto;filter:drop-shadow(3px 4px 0 #050713)}
+.hero-pod{color:#ffe000;font:900 clamp(35px,5vw,68px)/1 Impact,'Arial Narrow',sans-serif;letter-spacing:.13em;transform:rotate(-2deg);margin:0 0 0 29%;text-shadow:3px 3px #060a1c}
+.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.section-title,.episode-card h3,.page-title,.paper>h2,.essay-section h2,.transcript h2{font-family:Impact,'Arial Narrow',sans-serif;letter-spacing:.025em}
+@media(max-width:760px){.wordmark{width:155px}.hero-logo{max-width:440px}.hero-pod{font-size:44px}}
+
+/* Readable, sectioned transcript — original wording preserved */
+.transcript{padding:clamp(18px,3vw,36px)}
+.transcript-reading{background:#f2efe4;color:#202333;padding:clamp(18px,4vw,44px);margin:10px 0 22px;border-left:6px solid #ffe000}
+.transcript-nav{display:flex;flex-wrap:wrap;gap:8px 12px;padding-bottom:22px;margin-bottom:18px;border-bottom:2px solid #c9c5bc}
+.transcript-nav a{font-size:12px;line-height:1.35;color:#19294b;background:#e3dfd5;padding:9px 12px;text-decoration:none;font-weight:800}
+.transcript-nav a:hover{background:#ffe000}
+.transcript-part{scroll-margin-top:95px;margin:36px 0 48px;padding-bottom:24px;border-bottom:1px solid #d2cdc2}
+.transcript-part h3{font:900 clamp(25px,4vw,37px)/1.12 Impact,'Arial Narrow',sans-serif;text-transform:uppercase;letter-spacing:.025em;margin:0 0 5px;color:#101a33}
+.transcript-part-note{font-size:12px!important;color:#686c75!important;font-style:italic;margin:0 0 20px!important}
+.transcript-part p{font:16px/1.85 Georgia,'Times New Roman',serif;max-width:72ch;margin:0 0 1.2em;overflow-wrap:break-word}
+@media(max-width:760px){.transcript-reading{padding:18px}.transcript-part p{font-size:15px;line-height:1.75}}
+
+/* Transcript: spacious conversation layout */
+.transcript-reading{padding:clamp(26px,5vw,66px);max-width:100%;}
+.transcript-part{margin:56px 0 72px;padding-bottom:40px;}
+.transcript-part h3{margin-bottom:12px;}
+.transcript-part-note{margin-bottom:32px!important;line-height:1.6;}
+.transcript-turn{max-width:740px;margin:0 0 32px;padding:0 0 0 22px;border-left:3px solid #d1cabb;}
+.transcript-turn:has(.speaker-tag:not(.speaker-unknown)){border-left-color:#d0a900;}
+.speaker-tag{font:800 12px/1.5 'DM Sans',sans-serif;text-transform:uppercase;letter-spacing:.12em;color:#594b08;margin-bottom:9px;}
+.speaker-unknown{color:#76716b;}
+.transcript-part .transcript-turn p{font:19px/1.95 Georgia,'Times New Roman',serif;max-width:62ch;margin:0;color:#23252d;letter-spacing:.005em;}
+@media(max-width:760px){.transcript-reading{padding:22px 16px}.transcript-turn{padding-left:14px;margin-bottom:28px}.transcript-part .transcript-turn p{font-size:18px;line-height:1.85}}
+/* Automatically imported episode archive */
+.archive-note{max-width:760px;color:#c5cede;margin-bottom:26px}
+.search-label{display:block;color:var(--yellow);font-size:13px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px}
+.archive-search{display:block;width:100%;max-width:720px;padding:15px 17px;background:#f2efe4;color:#151b2d;border:3px solid #ffe000;border-radius:0;font:17px 'DM Sans',system-ui,sans-serif;margin-bottom:12px}
+#search-count{margin:0 0 24px}
+#episode-list{display:grid;gap:12px}
+.episode-card[hidden]{display:none!important}
+.episode-card.featured{border-color:#ffe000;background:#20243a}
+.episode-card.feed-card .number{font-size:38px}
+.episode-card.feed-card h3{font-size:25px;line-height:1.2}
+.episode-card.feed-card{grid-template-columns:80px 1fr auto;padding:20px}
+.audio-panel audio{width:100%;margin:10px 0 15px;display:block}
+.archive-pending{border-top:2px solid #d6d0c4;margin-top:35px;padding-top:25px}
+.archive-pending h2{font:900 30px Impact,'Arial Narrow',sans-serif;text-transform:uppercase}
+.archive-pending p{font-size:17px;line-height:1.8}
+@media(max-width:760px){.episode-card.feed-card{grid-template-columns:48px 1fr;padding:15px}.episode-card.feed-card .number{font-size:27px}.episode-card.feed-card h3{font-size:21px}}
+
+/* Separate series navigation */
+.archive-tabs{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 28px}
+.archive-tab{background:#151e39;border:2px solid #59617a;color:#f5f1e9;padding:12px 17px;font:800 15px system-ui,sans-serif;cursor:pointer}
+.archive-tab.active,.archive-tab:hover{background:#ffe000;border-color:#ffe000;color:#080d21}
+
+/* Consistent episode layout: essay + always-visible transcript */
+.episode-archive-paper{max-width:100%;padding:clamp(28px,5vw,62px);margin-top:24px;}
+.episode-archive-paper > h2{font:900 clamp(28px,4vw,42px)/1.1 'Barlow Condensed',Impact,sans-serif;text-transform:uppercase;}
+.episode-essay-standard{border-top:2px solid #d7d2c7;margin-top:36px;padding-top:35px;}
+.episode-essay-standard > h2{font:900 clamp(35px,5vw,56px)/1.05 'Barlow Condensed',Impact,sans-serif;margin:0 0 18px;text-transform:uppercase;}
+.episode-essay-standard .essay-heading-standard{font:900 clamp(28px,4vw,42px)/1.1 'Barlow Condensed',Impact,sans-serif;text-transform:none;margin:44px 0 18px;}
+.episode-essay-standard p{font:17px/1.9 'DM Sans',system-ui,sans-serif;max-width:72ch;margin:0 0 20px;}
+.episode-transcript-standard{margin-top:64px;margin-bottom:80px;}
+.episode-transcript-standard .transcript-intro{margin:0 0 24px;}
+.episode-transcript-standard .transcript-intro .eyebrow{color:#ffe000;font-weight:800;text-transform:uppercase;letter-spacing:.12em;}
+.episode-transcript-standard .transcript-intro h2{font:900 clamp(42px,6vw,70px)/1 'Barlow Condensed',Impact,sans-serif;text-transform:uppercase;color:#ffe000;margin:8px 0 12px;}
+.episode-transcript-standard .transcript-editorial-note{color:#c4c9d5;font:14px/1.7 'DM Sans',system-ui,sans-serif;max-width:74ch;}
+.episode-transcript-standard .transcript-reading{background:#f2efe4;color:#202333;padding:clamp(22px,5vw,58px);margin-top:20px;}
+.episode-transcript-standard .transcript-turn{display:grid!important;grid-template-columns:66px minmax(0,1fr)!important;column-gap:18px;align-items:start;border:0;border-bottom:1px solid #d6d0c4;border-radius:0;background:transparent;box-shadow:none;max-width:100%;padding:15px 0 20px;margin:0;}
+.episode-transcript-standard .raw-time{grid-column:1;grid-row:1 / span 2;font:700 11px/1.7 'DM Sans',system-ui,sans-serif;color:#6d7181;padding-top:4px;}
+.episode-transcript-standard .speaker-tag{grid-column:2;display:block;font:800 13px/1.4 'DM Sans',system-ui,sans-serif;color:#26365d;letter-spacing:.055em;text-transform:uppercase;margin:0 0 5px;}
+.episode-transcript-standard .transcript-turn p{grid-column:2;font:17px/1.8 Georgia,'Times New Roman',serif;color:#202333;margin:0;max-width:75ch;overflow-wrap:anywhere;}
+@media(max-width:650px){.episode-transcript-standard .transcript-turn{grid-template-columns:48px minmax(0,1fr)!important;column-gap:10px}.episode-transcript-standard .transcript-turn p{font-size:16px}}
+.transcript details>summary{display:none} 
+
+/* Episode 1 transcript: readable, always visible */
+#transcript .transcript-reading{display:block!important;visibility:visible!important;height:auto!important;max-height:none!important;overflow:visible!important}
+#transcript .transcript-nav{display:flex;flex-wrap:wrap;gap:12px;margin:18px 0 28px}
+#transcript .transcript-nav a{color:#f7cf27}
+
+/* Contrast repair: yellow belongs on dark panels, never on cream paper. */
+.paper .eyebrow, .paper .tag, .paper a, .paper a:visited,
+.transcript-reading .eyebrow, .transcript-reading .speaker-tag,
+.transcript-reading .speaker-tag[class*="speaker-"],
+.transcript-reading a, .transcript-reading a:visited { color:#18243e!important; }
+.transcript-reading .transcript-nav a, .transcript-reading .transcript-nav a:visited {color:#18243e!important;background:#ddd9cf!important;}
+.transcript-reading .transcript-nav a:hover {background:#cbc6ba!important;}
+.transcript-reading .transcript-turn {border-left-color:#66718b!important;}
+.episode-character-strip {border:0!important;box-shadow:none!important;}
+
+
+/* MASTER 46: consistent episode heading and readable transcript */
+.episode-hero h1.page-title, .archive-page h1, h1.page-title {font-family:Arial,Helvetica,sans-serif!important;font-weight:800!important;letter-spacing:-.025em!important;line-height:1.09!important;}
+.page-title .title-white,.archive-page h1 .title-white {color:#f5f0de!important;}
+.page-title .title-yellow,.archive-page h1 .title-yellow {color:#ffe000!important;}
+.transcript-turn .speaker-tag,.transcript-turn .transcript-speaker,.transcript-turn .speaker,.transcript .speaker-tag,.episode-transcript .speaker-tag,.ep11-transcript .speaker-tag {color:#17233d!important;opacity:1!important;font-weight:800!important;text-shadow:none!important;}
+.transcript-turn p {overflow-wrap:break-word;word-break:normal;white-space:normal;}
+.transcript-turn {max-width:100%;box-sizing:border-box;}
+
+/* MASTER 47: normalised homepage episode 1 card typography */
+a.episode-card.featured h3 {font-size:1.1rem!important;line-height:1.25!important;letter-spacing:normal!important;}
+/* Fictional editorial byline across first eleven essays */
+.fallout-essay-byline{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif!important;font-size:13px!important;font-weight:700!important;letter-spacing:.045em!important;line-height:1.6!important;margin:8px 0 25px!important;color:#536078!important;}
+
+/* MASTER 48: episode 1 archive card uses the same typography as the rest. */
+a.episode-card.featured .number{font-size:27px!important;line-height:1.1!important}
+a.episode-card.featured h3{font-family:Impact,'Arial Narrow',sans-serif!important;font-size:21px!important;line-height:1.2!important;letter-spacing:.025em!important;font-weight:800!important;margin:5px 0!important}
+
+/* MASTER 49: the first card uses exactly the same typography as the remaining episode cards. */
+.episode-card.feed-card .number{font-size:38px!important;line-height:1.1!important}
+.episode-card.feed-card h3{font-size:25px!important;line-height:1.2!important;font-family:Impact,'Arial Narrow',sans-serif!important;letter-spacing:.025em!important}
+@media(max-width:760px){.episode-card.feed-card .number{font-size:27px!important}.episode-card.feed-card h3{font-size:21px!important}}
+
+
+/* MASTER 51: unified F.A.L.L.O.U.T. display lettering.
+   The original cover's PODCAST is image artwork, not a bundled font.
+   Impact with condensed fallbacks is the closest existing site typeface.
+   Only display and UI text is changed; editorial body copy is preserved. */
+:root { --fallout-display: Impact, 'Arial Narrow', 'Barlow Condensed', sans-serif; }
+:is(h1,h2,h3,h4,h5,h6),
+:is(.page-title,.section-title,.essay-heading-standard,.hero-pod,.number,
+    .transcript-part h3,.transcript-intro h2,.episode-card h3,
+    .episode-archive-paper > h2,.episode-essay-standard > h2,
+    .episode-essay-standard .essay-heading-standard,
+    .episode-transcript-standard .transcript-intro h2) {
+  font-family:var(--fallout-display)!important;
+  font-stretch:condensed;
+  letter-spacing:.025em;
+}
+/* Keep the already approved sizes and layout: override font FAMILY only. */
+:is(nav a,.btn,.jump a,.tag,.eyebrow,.top-link,.archive-tab,
+    .transcript-nav a,.speaker-tag,.transcript-speaker,
+    .fallout-essay-byline,.meta,.raw-time,.transcript summary,
+    .results th,.hero-start,.random-entry a,.audio-panel a,
+    .episode-card .number) {
+  font-family:var(--fallout-display)!important;
+  letter-spacing:.035em;
+}
+/* The old MASTER 46 Arial override is superseded explicitly. */
+.episode-hero h1.page-title,.archive-page h1,h1.page-title {
+  font-family:var(--fallout-display)!important;
+}
+/* Never change readable essay paragraphs, transcript dialogue, notes or descriptions. */
+.episode-essay-standard p,.essay-section p,.paper p,
+.transcript-turn p,.transcript-part p,.transcript-reading p,
+.episode-card p,.hero p,.dek,.intro,.transcript-editorial-note {
+  letter-spacing:normal;
+}
