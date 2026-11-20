@@ -326,7 +326,7 @@ body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump) 
   width:100%;
   height:clamp(190px,30vw,330px);
   margin:16px 0 4px;
-  background-image:url("assets/fallout-cover.png");
+  background-image:url("assets/fallout-early-episode-cover.svg");
   background-position:center;
   background-repeat:no-repeat;
   background-size:contain;
