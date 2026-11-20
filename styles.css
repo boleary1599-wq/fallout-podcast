@@ -203,3 +203,52 @@ main.archive-page > p:last-child{
 @media(max-width:620px){
   .page-body .jump a{font-size:22px!important;padding:11px 10px!important}
 }
+
+
+/* MASTER 55 — ONE editorial navigation system across early and later episodes.
+   Override page-specific jump treatments while retaining existing destinations. */
+body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump){
+  display:flex!important;
+  flex-wrap:wrap!important;
+  align-items:center!important;
+  gap:12px!important;
+  margin:24px 0 30px!important;
+}
+body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump) > a{
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  min-height:52px!important;
+  padding:12px 20px!important;
+  border:1px solid #ffe000!important;
+  border-radius:0!important;
+  background:#121c36!important;
+  color:#ffe000!important;
+  -webkit-text-fill-color:#ffe000!important;
+  font-family:Impact,'Arial Narrow',sans-serif!important;
+  font-size:clamp(21px,2.1vw,26px)!important;
+  font-weight:800!important;
+  line-height:1.12!important;
+  letter-spacing:.025em!important;
+  text-transform:none!important;
+  text-decoration:none!important;
+  box-shadow:none!important;
+  opacity:1!important;
+  white-space:normal!important;
+}
+body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump) > a:hover,
+body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump) > a:focus-visible{
+  background:#ffe000!important;
+  color:#10182e!important;
+  -webkit-text-fill-color:#10182e!important;
+}
+@media(max-width:620px){
+  body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump){
+    gap:9px!important;margin:18px 0 24px!important;
+  }
+  body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump) > a{
+    font-size:21px!important;
+    min-height:48px!important;
+    padding:11px 13px!important;
+  }
+}
