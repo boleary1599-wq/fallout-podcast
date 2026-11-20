@@ -189,3 +189,17 @@ main.archive-page > p:last-child{
     padding:11px 10px!important;
   }
 }
+
+/* MASTER 54 — early episode pages use .page-body .jump rather than .archive-page. */
+.page-body .jump a,
+.page-body .jump a[href="#essay"],
+.page-body .jump a[href="#transcript"]{
+  font-size:clamp(20px,2.2vw,27px)!important;
+  line-height:1.3!important;
+  font-weight:800!important;
+  padding:10px 14px!important;
+  display:inline-block;
+}
+@media(max-width:620px){
+  .page-body .jump a{font-size:22px!important;padding:11px 10px!important}
+}
