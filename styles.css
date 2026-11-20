@@ -149,3 +149,20 @@ a.episode-card.featured h3{font-family:Impact,'Arial Narrow',sans-serif!importan
 .episode-card p,.hero p,.dek,.intro,.transcript-editorial-note {
   letter-spacing:normal;
 }
+
+
+/* MASTER 52 — archive hierarchy: original Podbean notes are supplementary.
+   Reorder the existing first notes panel visually after essay/transcript,
+   before the final archive navigation. Applies to all episode archive pages. */
+main.archive-page{
+  display:flex;
+  flex-direction:column;
+  align-items:stretch;
+}
+main.archive-page > section.panel:first-of-type{
+  order:50;
+  margin-top:36px;
+}
+main.archive-page > p:last-child{
+  order:60;
+}
