@@ -252,3 +252,117 @@ body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump) 
     padding:11px 13px!important;
   }
 }
+
+
+/* MASTER 56 — original podcast episode artwork immediately after the two
+   reading links on early episodes. The early Podbean artwork is the familiar
+   original collage already held in this repository. Later unique artwork
+   must be mapped from the actual episode feed rather than guessed. */
+:is(.page-body .jump,
+.archive-page .ep1-jump,
+.archive-page .ep2-jump,
+.archive-page .ep3-jump,
+.archive-page .ep4-jump,
+.archive-page .ep5-jump,
+.archive-page .ep6-jump,
+.archive-page .ep7-jump,
+.archive-page .ep8-jump,
+.archive-page .ep9-jump,
+.archive-page .ep10-jump,
+.archive-page .ep11-jump,
+.archive-page .ep12-jump,
+.archive-page .ep13-jump,
+.archive-page .ep14-jump,
+.archive-page .ep15-jump,
+.archive-page .ep16-jump,
+.archive-page .ep17-jump,
+.archive-page .ep18-jump,
+.archive-page .ep19-jump,
+.archive-page .ep20-jump,
+.archive-page .ep21-jump,
+.archive-page .ep22-jump,
+.archive-page .ep23-jump,
+.archive-page .ep24-jump,
+.archive-page .ep25-jump,
+.archive-page .ep26-jump,
+.archive-page .ep27-jump,
+.archive-page .ep28-jump,
+.archive-page .ep29-jump){
+  position:relative;
+}
+:is(.page-body .jump,
+.archive-page .ep1-jump,
+.archive-page .ep2-jump,
+.archive-page .ep3-jump,
+.archive-page .ep4-jump,
+.archive-page .ep5-jump,
+.archive-page .ep6-jump,
+.archive-page .ep7-jump,
+.archive-page .ep8-jump,
+.archive-page .ep9-jump,
+.archive-page .ep10-jump,
+.archive-page .ep11-jump,
+.archive-page .ep12-jump,
+.archive-page .ep13-jump,
+.archive-page .ep14-jump,
+.archive-page .ep15-jump,
+.archive-page .ep16-jump,
+.archive-page .ep17-jump,
+.archive-page .ep18-jump,
+.archive-page .ep19-jump,
+.archive-page .ep20-jump,
+.archive-page .ep21-jump,
+.archive-page .ep22-jump,
+.archive-page .ep23-jump,
+.archive-page .ep24-jump,
+.archive-page .ep25-jump,
+.archive-page .ep26-jump,
+.archive-page .ep27-jump,
+.archive-page .ep28-jump,
+.archive-page .ep29-jump)::after{
+  content:"";
+  display:block;
+  flex:0 0 100%;
+  width:100%;
+  height:clamp(190px,30vw,330px);
+  margin:16px 0 4px;
+  background-image:url("assets/fallout-cover.png");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:contain;
+}
+@media(max-width:620px){
+  :is(.page-body .jump,
+.archive-page .ep1-jump,
+.archive-page .ep2-jump,
+.archive-page .ep3-jump,
+.archive-page .ep4-jump,
+.archive-page .ep5-jump,
+.archive-page .ep6-jump,
+.archive-page .ep7-jump,
+.archive-page .ep8-jump,
+.archive-page .ep9-jump,
+.archive-page .ep10-jump,
+.archive-page .ep11-jump,
+.archive-page .ep12-jump,
+.archive-page .ep13-jump,
+.archive-page .ep14-jump,
+.archive-page .ep15-jump,
+.archive-page .ep16-jump,
+.archive-page .ep17-jump,
+.archive-page .ep18-jump,
+.archive-page .ep19-jump,
+.archive-page .ep20-jump,
+.archive-page .ep21-jump,
+.archive-page .ep22-jump,
+.archive-page .ep23-jump,
+.archive-page .ep24-jump,
+.archive-page .ep25-jump,
+.archive-page .ep26-jump,
+.archive-page .ep27-jump,
+.archive-page .ep28-jump,
+.archive-page .ep29-jump)::after{
+    height:clamp(190px,65vw,290px);
+    margin:12px 0 0;
+  }
+}
