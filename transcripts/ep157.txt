@@ -1,0 +1,2089 @@
+[00:00] Hello, hello everyone, welcome to Full Head podcast episode 157, Double Figures, welcome,
+
+[00:12] Living Leg End, it's a futile, false showdown.
+
+[00:15] All 525 songs debatable, still going head to head, we are in round three, finally, a work
+
+[00:22] in progress to about 2026, big love to all them who fall, including those who annotate
+
+[00:30] and rebirth one of whom we do have this evening. But first, Pemberton Walker, Alistair, how are you?
+
+[00:36] Oh good, yeah, I'm enjoying a cup of coffee, I'll be one in the toilet later on now.
+
+[00:42] Oh very good, straight through you, isn't it? And DB, the summer of Dan, is rounding the corner,
+
+[00:47] but we hope it is not the end of Dan. I am in the realm of the essence of Dan.
+
+[00:52] Right, good, it is my two Dan's, you should see my two Dan's. And of course we'll be
+
+[00:57] joined by the Mikey Toa Toa, Max and the Snir era continues, but above and beyond all of that,
+
+[01:04] we have, I hope we can call friend of the show, Danny Noe. How are you doing Danny?
+
+[01:09] Hello, yeah, I'm fine, thanks. Did you say episode 157?
+
+[01:13] I believe so.
+
+[01:14] Well done, still going somehow. I imagine you've got all the wrinkles ironed out by now, right?
+
+[01:20] We've added a few more, as I like them to say. So tonight we've got Spencer must die versus behind
+
+[01:27] the counter blindness versus 10 houses of even pine leaves versus HOW. But before we get to this,
+
+[01:34] I've been wanting to ask Dan, Danny about a thing that I stumbled across probably through the untainted
+
+[01:42] fall or something, but called the flickering lexicon. Dan, for those of us, for those who have not
+
+[01:50] encountered it yet, could you do not mind describe what this thing is?
+
+[01:54] Well, the flickering lexicon is a concordance to the lyrics of the fall up to about, what is it,
+
+[02:00] 2014, something like that. It's a project that was inspired by people saying there ought to be
+
+[02:08] such a thing for quite a long time. It never was. And I guess I was the person with the
+
+[02:13] necessary mania to actually try and do it. It was never actually completely completed because
+
+[02:19] you just run out of time with these things. But and the last update was something like a decade
+
+[02:23] ago. So I am since I'm between jobs at the moment currently working on an update, which will
+
+[02:30] bring the story up to date and so on. But the software I used at the time no longer exists in
+
+[02:36] the same, well, no longer exists. So I'm having to learn new software and I'm having a go at
+
+[02:43] using some AI programs to see if I can do stuff with that as well, which is quite interesting.
+
+[02:49] It does make some things a bit simpler. But some of the analysis requires actual proper
+
+[02:54] linguistic software. I'm not a linguist, I know nothing about linguistics, but I've never let
+
+[02:58] that stop. Yeah, I mean, I'm into all kinds of pasta, to be honest. But Danny, what before I dig
+
+[03:04] into the actual analysis, because I was really interested, I was talking a bit earlier,
+
+[03:10] anything from your memory strike, who has been interested in terms of the words that popped
+
+[03:15] up or the number of things, was there anything that? Well, we were just talking before recording
+
+[03:20] began about how the full compare with other groups. There's a lot of other groups have
+
+[03:25] been analysed in this detail. There are linguistics corpusters, as I believe people know about this
+
+[03:30] call them, for like blues, lyrics and all this kind of stuff. But Bob Dylan's had it done to him.
+
+[03:37] Grateful Dead, there's one online. The Beatles, there's a book for the Beatles. They did that
+
+[03:42] years and years ago using big mainframe PCs to come for years. And the fall have got more songs
+
+[03:50] than any of those, more words than any of those, and a more rich vocabulary than any of those,
+
+[03:56] interestingly. Yeah, so I think Dylan, the more songs for sure fall, but Dylan's knocked out a
+
+[04:02] few more albums in the meantime, but the fall did after that as well. The Beatles not so much.
+
+[04:07] Text size, yeah, Dylan maybe slightly edges the mates close, but then yeah, vocabulary.
+
+[04:15] In terms of total number of text, yeah. You don't get points for just using lots of words,
+
+[04:21] Bob. Add another couple of verses on so you can win this battle. But the vocabulary size,
+
+[04:26] yeah, fall was like 9,500 versus 8,000 for Dylan and 2,000 for the Beatles. So it's like
+
+[04:34] objectively they're the best and smartest and cleverest band and anyone who likes them is
+
+[04:39] obviously above and beyond the average man in the street. Definitely. We ought to get our appeal
+
+[04:44] into the Nobel committee, I think. Yeah, exactly. Life is not fair as we stated earlier. Dan, Dan B,
+
+[04:51] DB. What if you like the fall, but it's mainly for the music? Do you have to be a lyrics
+
+[04:56] commenter? Well, I mean, if you're not interested in lyrics, you're not going to be interested in
+
+[05:01] the flickering lexicon, I would suggest. I was quite interested in lyrics. I was interested in
+
+[05:07] it. I was kind of being facetious and I was really interested in the words that appear in, I tried
+
+[05:13] to find a list of words that appear in every decade of the fall. Because like to see kind of like
+
+[05:19] what repeat obsessions are, the one that really struck me, you know, without kind of trying to
+
+[05:24] side-rod, just like under. I think under appears every decade in. And also the way that the kind of
+
+[05:30] the very common recurring words that have multiple meanings and senses, he often uses like every sense
+
+[05:37] of them, like even like kind of sit like words like B or, I can't remember the examples off the top of
+
+[05:44] my head, but like, yeah, he doesn't just use a word in a single sense. He's got a very mobile with
+
+[05:49] his kind of senses of even adverbs and jokes, things like that. So I am interested in the lyrics,
+
+[05:55] just I don't hear them initially. I think that's the best. Well, just to pick up on that, I did,
+
+[06:00] I was going back through some old fall forum discussion of this and there was some discussion of
+
+[06:06] words that are used in every decade. I may have made an out of it, I'll have a look through in a
+
+[06:10] second. But the most commonly, I did include all the words that most linguists wouldn't bother
+
+[06:16] including accordance like the and I just thought it was funnier to include them. So the most common
+
+[06:21] word used is of course the. But in terms of interesting words, the most commonly used word
+
+[06:25] back then was man. 386. The top 20 was man, then down, hey, time, etc, etc, etc. So I've got the
+
+[06:35] top 20 here. The longest words, if you don't include hyphenated phrases, there's comfort blankets in
+
+[06:41] there. But the longest word I found was semi circumnavigate. There's also misinterpretation.
+
+[06:47] And I think I made up this compost, this composmentist, right? Yeah, yeah, micro plastering,
+
+[06:53] whatever that is, pre psychognition, incomprehensibly and transfiguration. And I can imagine Dylan
+
+[07:00] using some of those words, but the Beatles less so. But if you're using words that don't aren't
+
+[07:05] starting with a prefix, and I thought the longest one I found was pleasure, listen,
+
+[07:09] pleasure, licious. And then there's hallucinogenic and confidentiality were used as well.
+
+[07:15] Advertisements, philanthropists, tranquilizers, plagiarization,
+
+[07:20] abdominizer is in there somewhere, I'm sure it's somewhere in there, but it's not as long as some
+
+[07:25] of those others. So yeah, you got some good countdown scores there, aren't you? Oh, indeed.
+
+[07:33] I just I just randomly looked at the actually at the M page and Marty's just interesting to see
+
+[07:38] like, you know, the word Marty appears in Australians in Europe, I'm a mommy, cowboy, George,
+
+[07:43] craigness, insult song, job search, no bulbs, pumpkin soup, so-called dangerous NWRA. It's
+
+[07:48] just really interesting to see that with with the body of work this size, I'm sure you could do the
+
+[07:53] Bible code trick and work out, you know, hidden messages in all of this. But yeah. So did you
+
+[08:00] find it? The most wordy year, by the way, was 1982. Okay. Yeah. Well, yeah, what is that? That was
+
+[08:06] hex and room to live. And that does make some sense. Top five songs by number of words, North
+
+[08:14] will rise again is top, right, bottom five, Das Boot, that's that list. And so, you know, there's
+
+[08:22] there's different ways in linguistics of calculating richness and so on, it gets a bit
+
+[08:26] complicated with some measures, Das Boot actually comes top because there's three words in it,
+
+[08:31] none of which are repeated, which means it has a score of one which puts it top. Right.
+
+[08:36] You have to look at all the other ways of doing it. Yeah. So did you, I mean, back in the day,
+
+[08:42] did you find some some sense of achievement as you as you rounded the corner or was it just
+
+[08:50] pushing the futility of life even further? Well, that's what it is, isn't it? It's a daft idea to
+
+[08:55] do really, particularly when I did it when the fall was still going as well and still had it.
+
+[09:00] And I did run out of time really to finish it properly. I will have a go now and do it properly
+
+[09:04] and update it. But yeah, I mean, it's I mean, it's trivia really. And it's a daft idea. But there
+
+[09:10] are there's a guy called Matt Davis who is or was a University of Chester, who is an actual
+
+[09:15] proper linguist who who credited me on a few of the things he's done. And he used as his own
+
+[09:20] corpus of full lyrics for his own work and has published on it. So so there is actual proper
+
+[09:24] academic stuff being done. My site is not one of them. But but I just do it for trivia. And
+
+[09:30] like everything, all the kind of annotation research I've done, it's just because I like the
+
+[09:35] challenge of doing it and thinking through all the decisions you have to make, you know,
+
+[09:40] what to include, what to exclude, how to label things, you know, these are just things that are
+
+[09:45] just intellectually challenging. Yeah, the matter is just basically trivia. Well, just briefly, if
+
+[09:51] we kind of touch on your your other big project, which is to, you know, the annotated fall resting
+
+[09:56] piece. And now you're annotating the fall work. Where are we at with that? Yeah. So because the
+
+[10:02] the original great annotated fall died and has disappeared apart from in the internet archive,
+
+[10:08] I thought, well, I put so much work into that it wasn't my site, but I put so much work into it.
+
+[10:13] I can't let all that work go. So I've recreated a site. So it's not a copy. I'm including stuff that
+
+[10:21] wasn't included in in BuzzFidget site. So I'm including cover versions and things like that.
+
+[10:26] So it'll be a broader coverage. I've got up every song that I want to include,
+
+[10:32] including instrumentals, which also weren't in the annotated fall. So it will be as much as possible
+
+[10:37] everything, theoretically, including some stuff that was never recorded or performed as well. So
+
+[10:44] yeah, I noticed the like things like classical gas and stuff, which I think are on the track record
+
+[10:50] or whatever. Yeah, yeah. So so I've got everything up. But what I haven't finished yet is actually
+
+[10:58] doing the actual annotation. And I'll do it kind of my way, but including quite a lot of the stuff
+
+[11:03] that was on annotated fall. But but I've also included a link to the archive version of annotated
+
+[11:08] falls. If people want to go back and see what had been said in the past, they can do that easily.
+
+[11:14] But it's just important to have it keeping going as a live project. I think there's still stuff to
+
+[11:19] do. There's still a lot of stuff to do digging. And what's interesting is I am going to your site
+
+[11:24] first now and then if I need to go through so we was the one I think was it it quoted us quite
+
+[11:29] extensively about Spencer talking about, or was he talking right? I don't know, which was cool.
+
+[11:35] It was cool to see that we'd finally made it in the fall world. Best home. Yeah, that's right. Yeah.
+
+[11:41] Yeah. And then, you know, coming through and then of course, I'm making my notes of which I'm
+
+[11:45] cribbing a lot from that. I did it fall still and Danny's name is just in every single one.
+
+[11:50] So yeah, absolutely. Well, good luck. I hope the Lord rewards you for your work.
+
+[11:57] I expect no reward from the Lord. But that's what Beed said when he was doing his history of Britain
+
+[12:04] as well. And I think a lot of you know, if people choose to compare me to Beed, then obviously I
+
+[12:11] can't stop them, you know, no, no, or Gaza. You know, we all want to remember for something,
+
+[12:19] don't we? All right, let's crack on. So Spencer must die up against behind the counter. Come on.
+
+[13:41] But I'm getting feel.
+
+[13:44] I'm waiting on.
+
+[13:48] They just want me to be.
+
+[13:52] Behind the counter.
+
+[13:55] Behind the counter.
+
+[14:06] Behind the counter.
+
+[14:11] Behind the counter.
+
+[14:21] Alrighty, so yeah, Spencer must die from levity. What was that 97 and behind the counter?
+
+[14:27] middle cross of volt. I can't remember 94. I bet right. Who knows?
+
+[14:32] Don't matter. Don't matter, does it? All right, Alistair, I'd like to come to you first if you
+
+[14:38] don't very much mind. I'll let you get away with that. Justice once burned in. Spencer must die.
+
+[14:45] It's one of them from Levitate, I think where it sounds like they're kind of like winging it a
+
+[14:49] little bit. It's like he's got some good ideas in there. But he's like they're still trying to
+
+[14:55] develop them while they're recording. It's quite nice what's going on with the drum and bass backing
+
+[15:02] jazzy a bit trip hoppy kind of vibe. A few jazzy chords in there. And then the guitar starts.
+
+[15:12] It's like it just doesn't need to be there. It's like somebody's just like walked into the studio
+
+[15:16] and plugged in and started tuning up. But yeah, it's not my favorite off Levitate. But I do quite
+
+[15:23] like Levitate. But behind the counter, that's just got a cracking rhythm section to it. It's
+
+[15:30] so got a nice groove. And since it kind of worked well, not too in your first, but more
+
+[15:36] to came on the whistles. I guess it's a bit semi sort of like structure wise, you know,
+
+[15:41] a bit kind of predictable in that way. You could have like chucked a curveball in there if they
+
+[15:45] didn't want it to. But it was kind of a bit of a return to form for me this because it was it
+
+[15:50] I think was a single one out. I think so. Yeah, because it was what it was actually,
+
+[15:54] like I just started uni when it came out and the student radio played I probably said this about
+
+[15:58] four or five times at this point. So this is my first like proper in the moment, like fall,
+
+[16:04] like song, I think, whereas like during real time getting into it. And yeah, so it was a single. Yeah.
+
+[16:10] Yeah, well, I kind of like spent a few years being disappointed listening to Peele because I
+
+[16:14] would see a cane on sort of some false stuff right in this area. But I did think that this one was
+
+[16:19] like quite well written. And, you know, it was catchy. And I think it probably did quite well
+
+[16:26] at festive 50 that year. I'm very surprised that you like this one because it is quite indie
+
+[16:32] and jangly and not necessarily what I peg you with. It's got that great expression.
+
+[16:39] It's the best in the drums for me like and it's got a bit better. The kind of like football
+
+[16:44] terracy bit when it breaks up, you know, like anything. Yeah, you love that. Yeah, I don't mind
+
+[16:50] that. It's better than Shum 69. Very not. Good, good. And Danny, no, what do you reckon to these
+
+[16:58] two? Well, I'm fond of Spencer must die Spencer. Obviously, there's a lot of associations because
+
+[17:04] Spencer did die, but you know, later on, and the title is obviously just because they'd fallen
+
+[17:10] out at that point. I think it was co written with him wasn't he? I don't know if it was the
+
+[17:15] inshore dose bit, but whichever it is. But I think Alastair's right about it's like a lot of stuff
+
+[17:22] on levitate, which is my favorite album, not necessarily the best, but it's my favorite. I
+
+[17:27] think, you know, a lot of it would have been different had they had longer and a more stable
+
+[17:32] line up to do it. But I think it makes for a deceptively simple little tune going on here.
+
+[17:38] There's a few things in there that if you listen to it more than once, you're going to think, oh,
+
+[17:42] I've just noticed something in there. I hadn't heard before, just as you were playing it then,
+
+[17:45] I thought, I've just noticed something. I guess because you're skipping through it a little bit.
+
+[17:49] It's kind of you kind of start to notice things a little bit. So I'm quite fond of it. The lyrics
+
+[17:55] are really hard to make any sense of. They're not an attack on anybody. It's not about Spencer,
+
+[17:59] as far as I can tell. It's not about anything in particular, as far as I can tell.
+
+[18:04] Really, really quite difficult. And the appeal version is just as garbled as the
+
+[18:10] as the version on the album and the and the sync and so on. But then the stuff they're about seems
+
+[18:15] to refer to episodes of the X files. According to Dan, according to Dan, season two, episode seven
+
+[18:23] of the X files, first broadcast in 1994, title three has Mulder examining a tin of raspberry
+
+[18:28] sauce at one point. Correct. Yeah, there you go. So it's got to be that, isn't it? So yeah, I do
+
+[18:34] quite like it. But compared to behind the counter, I think it just it's just not quite as good as
+
+[18:41] that. I think behind the counter is not perfect either. There's nice bass going on and ripetally
+
+[18:47] there. And I do like that. I think the keyboard stuff, you know, it kind of works. I'm not completely
+
+[18:54] convinced by it, but it's there anyway. And, you know, it's not offensive to me. And it's got a
+
+[19:00] cleaner kind of lyric to it in a way. Kind of you kind of make some sense of it. Still not entirely
+
+[19:05] sure what is on about, but it kind of you can make some sense of it, which I think is an advantage
+
+[19:10] in a lyric in some ways. So yeah, so I think middle class revolt, there are again, there's a remix of
+
+[19:18] it as well, which is perfectly serviceable. It's good. It's fine. So yeah, I appreciate it. Me too.
+
+[19:26] I'm actually a big fan of behind the counter probably because of that look like born of
+
+[19:30] nostalgia, but it's it isn't. You know, I always do like the indie, the indie side of the fall.
+
+[19:35] I'll get to DB in a moment, but first Max said Spencer must die. This is growing on me first.
+
+[19:40] Since first listening, but still kind of weak. It's the verse has parts like the Bristol sound,
+
+[19:46] which is popular at the time. Porty said in the like, it's growing on me a bit more or worse.
+
+[19:50] Stuart says one of my least listened to albums because it was unavailable when I was mainlining
+
+[19:55] the catalog in a burst of enthusiasm years back. I always forget what this track is and pleasantly
+
+[19:59] surprised every time. Nice deep bass, throbbing live drums that sound like a drum and bass,
+
+[20:04] breaking tonality with a pensive mess. Unfortunately, guitar sticks out like a sore thumb. He agrees
+
+[20:09] with Alistair on this and the combination does not work. Whereas Snir says a few scratchy short
+
+[20:17] of one of those beastie boys instrumentals, not a million miles from Cave, Staghally either.
+
+[20:21] Smith didn't really bother showing up for this nice bass and drum groove, neither did the band
+
+[20:25] when it comes to the extremely non-committal chorus. I'm going to play a little bit of the
+
+[20:30] Beastie Boys Instrumental that it does remind me of.
+
+[20:33] I don't know what I'm talking about, it sounds nothing like it.
+
+[20:52] DB, what do you think? Well, let me just recap how we got here.
+
+[20:58] The Spence Must Die defeated Loadstones and New Formation Sermon, possibly explaining its presence
+
+[21:07] with us. Behind the Counter beat Hark the Herald Angels and The Knight, The Devil and Death in a
+
+[21:13] very ecclesiastical... Indeed. And we've also got Death here as well, so maybe that's the root for
+
+[21:20] Behind the Counter to get to the final. I actually wrote some notes here. I'm going to read them
+
+[21:25] verbatim just for this one. Spence Must Die, I wrote, Campag Vellisette listening carefully,
+
+[21:30] Interesting seduction routine, it's a very muted vocal, isn't it? It's very...
+
+[21:35] kind of a come hither kind of thing from this. I wrote some lyrics down that made me think that
+
+[21:41] these are... Well, I don't like the word plagiarism. A text that he's put into work,
+
+[21:46] superb sunflowers from the outskirts, the melodic experience amplified over centuries,
+
+[21:51] feels like some kind of PR bump that he's maliated into a form that I quite like. The song
+
+[21:59] is so right. Behind the Counter, the only note I've written is kind of generic but in a style I
+
+[22:05] really like. As previously discussed, early 90s in default is very much for me, this is one of the
+
+[22:12] better songs on middle class revolt. I think you can tell that you're a fan of a band when they sort
+
+[22:17] of sound like they're phoning in what they do, still really love it and that's what I feel like.
+
+[22:21] Yeah, a little bit. Yeah, I think for me, the big Spence Must Die with that nice big beat,
+
+[22:28] one of the Shang Lee's last stabs, wasn't it Levitate? We don't really know how much he was
+
+[22:36] actually doing but I'm taking it that most of the bass lines on that record were Shang Lee's last
+
+[22:41] stabs. Blown out of me, as it ambles along pretty nicely, it would fit nicely on a compilation
+
+[22:47] where it's kind of just moving along but I don't think it's got enough, even with the kind of
+
+[22:53] potential pre-cog, whether about Spence or whether it's a comment on Princess Die, if it is, it's a
+
+[23:00] very oblique one. Centervishi, JJKML, aka MLPBLE, as you said, dance specializes in sunflowers.
+
+[23:10] Sean Connery in Mind's Eater to purchase with his compliments of violence goes all
+
+[23:14] fragmented zinc slip and bodache. Yes, indeed. Yeah, and so I think Simon Spenser was, the duo was
+
+[23:22] called Inch, the people at Monboise and then Dose was I think his name when he did solo stuff and
+
+[23:30] yeah, and then in terms of what the internet people think about behind the counter,
+
+[23:35] is that some actual melodics singing from mezz? What a sellout, only joking, an absolute cracking
+
+[23:41] symbol from my single for my favorite 94 album. Even the rave whistles don't ruin it, which is
+
+[23:48] max. And yeah, of course the rave whistles, like this is, I mean, you could ostensibly say Spence
+
+[23:53] and Must Die on the Counter are both dance or electronic-y kind of things, but they're just
+
+[23:59] other ends of the spectrum. And this is Dave Bush, like with his whistle, doing some really
+
+[24:06] off-color rave. And some nice guitars like ringing out in like an acceptable way, but behind the
+
+[24:12] counter is, yeah, it's just a nice indie song. Yeah. Don't stop ranting, they do remind me like,
+
+[24:19] you know, the Robbins and Bobbins by Frank Sybot. Well, yeah, indeed, on Saturday at half past three,
+
+[24:25] there's only one place to be. And then at the football grounds. Indeed. Max,
+
+[24:30] Stu says, shit album, decent single about behind the counter. I like the bass lines, nice round and
+
+[24:36] warm sound against rave stabs, but I could do it at the phaser on the guitar and the whole guitar
+
+[24:40] part could be cut without losing much. Seems to like the juice and when the crash symbol kicks in,
+
+[24:44] it's like they're telling us the energy level has gone up without it actually going up.
+
+[24:48] And Snirrus says, jaunty enough entry into the better side of middle-class revolt, play with
+
+[24:53] just enough gusto that you don't question too hard whether the song is any good. They are tucking
+
+[24:57] in all over the shop, got no time for dinner or tea behind the counter. Every car I see,
+
+[25:02] they're always picking on me. I think I've said this a few times before, but there's an Ian Brown
+
+[25:06] interview where he says this kind of talent doesn't translate to the sweet shop. And that's kind of
+
+[25:11] what I always think about when this is like Smith telling everybody else that they should get behind
+
+[25:16] the counter, but also saying that they shouldn't get behind the counter because it's no good for
+
+[25:21] the soul. Dan says, I always thought it was handsome Turk. That was Danny Noe's comment,
+
+[25:29] I believe, from the annotated file. I'm not sure. When you make these comments, are you in a
+
+[25:36] research frenzy or are they all locked away in the palace of the mind? Can you access them?
+
+[25:44] Well, a bit of both. I'm often in a research frenzy, Renda.
+
+[25:49] Oh, to be in such a place. All right, let's move on. No, let's take a vote. That's what we do in
+
+[25:56] this business. So, DB, Spencer must die versus behind the counter. Which way are you going?
+
+[26:03] Spencer must die by being eliminated by behind the counter.
+
+[26:07] All right, I'll make. I'll see what I can do with that information. All right, Danny, which way are
+
+[26:13] you going? I'm going to go with behind the counter. Okay, as am I, and Alistair, which way are you
+
+[26:19] going? I'll go with the counter. All right, it's easy, isn't it? So, Stuart has just edged towards
+
+[26:26] Spencer with a 2.5 and Max has gone with behind the counter. So, it's easy days, isn't it? It's
+
+[26:34] easy, easy stuff. All right, that takes us to the next showdown, which is, I believe, blindness
+
+[26:41] against another levitate track. Totally random, Dan. I know you'll, I know you'll love the record,
+
+[26:46] but it's just how the gods shone on us today against 10 houses of Eve.
+
+[27:11] And
+
+[27:41] ienst
+
+[27:50] ienst
+
+[27:52] Witness the fitness, the crop of 10 leveth, one whole one ques,
+
+[27:56] Witness the fitness, the crop of 10 leveth, one whole one ques,
+
+[28:02] Twiggin'
+
+[28:03] The plant has evolved!
+
+[28:08] Well well well!
+
+[28:09] Welcome!
+
+[28:10] Well well well!
+
+[28:11] Welcome!
+
+[28:12] Well well well!
+
+[28:13] Welcome!
+
+[28:14] Welcome!
+
+[28:15] Welcome!
+
+[28:16] Welcome!
+
+[28:17] Welcome!
+
+[28:18] Welcome!
+
+[28:19] Welcome!
+
+[28:20] Welcome!
+
+[28:21] Hello for any distraction for any distraction for any distraction for any distraction for
+
+[28:30] any distraction for any distraction for any distraction for any distraction for any
+
+[28:35] distraction for any distraction for any distraction for any distraction for any distraction for
+
+[28:37] Well, well, well, well, well, well, well, well, well, well, well, well, well, well, well,
+
+[28:44] well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well,
+
+[28:48] well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well,
+
+[28:55] well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well,
+
+[29:00] well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well,
+
+[29:05] well, well, well, well, well, well, well, well, well, well, well, well, well, well, well,
+
+[29:21] And can you answer the 10 halves of it?
+
+[29:31] And will you deny your awe?
+
+[29:39] If only, if only thou could
+
+[29:45] In a rap sort of style, understand
+
+[29:58] Can you answer the 10 halves of it?
+
+[30:07] Turn around and look at the 10 halves of it
+
+[30:16] And for any distraction for any distraction
+
+[30:31] Hey, hey, where the monkeys?
+
+[30:35] People say I'm a monkey rider.
+
+[30:38] That's what that sounds like to me.
+
+[30:41] Danny, no, I'm coming to you.
+
+[30:44] Hopefully it's a yes.
+
+[30:45] What do you think of these songs?
+
+[30:48] Yeah, I just thought it was hilarious.
+
+[30:52] Blindness, wow.
+
+[30:54] I really love blindness.
+
+[30:56] It's not popular with everybody, I know.
+
+[30:58] There's something like five different versions on there.
+
+[31:01] Something like that, which is slightly different.
+
+[31:03] But I just love it.
+
+[31:04] I put it as a kind of a almost like an anthem for the fall for quite a long time.
+
+[31:08] They could just play it for hours on end, really.
+
+[31:11] Just increase and decrease the intensity of it.
+
+[31:14] I put it in the same bracket as things like Dr. Book's letter or 50-year-old man,
+
+[31:18] where you just kind of keep it going as a monolithic kind of sound, particularly live.
+
+[31:24] I just love it.
+
+[31:26] The lyric is relatively slight, kind of a dose of political paranoia, really.
+
+[31:31] Not a huge amount to it, but it works as a lyric.
+
+[31:35] But I just love the way it just keeps going the same all the way.
+
+[31:40] And the witness to fitness, which is a record I love anyway,
+
+[31:44] I just like the origin story of hearing that and using that as the basis.
+
+[31:52] But of course, witness to fitness is based on the Doctor Who theme as well.
+
+[31:57] So it all goes back somewhere.
+
+[31:59] But yeah, I love blindness to bits and always have.
+
+[32:03] Tent and Houses of Eve, which kicks off Levitate.
+
+[32:06] I remember hearing that and thinking,
+
+[32:08] where are we now?
+
+[32:09] That's a remarkable piece of work as well.
+
+[32:12] And absolutely works to kick off Levitate.
+
+[32:15] Just give you a taste of what that album's going to be like.
+
+[32:19] It's completely as mad as a box of frogs, that track.
+
+[32:23] I do love it as well.
+
+[32:25] I like the distinction between the kind of drum and bass stuff going on.
+
+[32:28] It's all a bit dated now, I suppose, perhaps even then.
+
+[32:31] But I just love that then.
+
+[32:34] The distinction between that and the way he kind of dips into this pseudo poetry,
+
+[32:38] thou scud kind of stuff.
+
+[32:40] I just like the contrasts and all of that.
+
+[32:43] I love both tracks.
+
+[32:45] But yeah, I could listen to both of them forever, really.
+
+[32:49] It just fits in with my nervous system.
+
+[32:52] Yeah.
+
+[32:53] So what was it about Levitate?
+
+[32:56] You probably told us this before.
+
+[32:57] My memory is awful.
+
+[32:58] But what was it about Levitate, the album?
+
+[33:00] And I think it was the first time maybe I came across,
+
+[33:02] she was on Steve's Falling Fives,
+
+[33:04] where you picked Levitate, the song, as your favourite.
+
+[33:07] What was it?
+
+[33:08] There's certain songs.
+
+[33:10] I mean, just to start with the song Levitate,
+
+[33:12] off the album Levitate,
+
+[33:13] it's just, I mean, it's not the greatest song in the world at all,
+
+[33:16] but it's just the way it just plinks and plonks its way forever.
+
+[33:19] And there's certain songs that are like that,
+
+[33:22] where it just kind of seems to trigger something in my head.
+
+[33:25] The song Moonshake by Cannes,
+
+[33:27] which is an infinitely better song, actually,
+
+[33:29] is a similar one, where I can just put it on,
+
+[33:31] and just put it on repeat, and just keep it going.
+
+[33:34] It's one of those things I can't just listen to at once.
+
+[33:36] I can't explain why it just is like that,
+
+[33:39] and Levitate, off Levitate, is like that.
+
+[33:41] And the album itself, I guess,
+
+[33:43] some of it's to do with, you know,
+
+[33:45] where I was at the time, personally,
+
+[33:47] where the Fall were at the time,
+
+[33:49] where it seemed like, you know,
+
+[33:51] it seemed like the end of day at that point.
+
+[33:53] It really didn't seem like the band, the group, were going to survive.
+
+[33:56] And they come out with that,
+
+[33:58] and I just remember thinking, this is remarkable,
+
+[34:00] just at the point where either they're going to collapse completely,
+
+[34:03] and in a way that album is the sound of a band
+
+[34:06] doing what it can as everything collapses around it.
+
+[34:09] M.A.S. not in a great place.
+
+[34:11] And so I just, just coming out with something
+
+[34:14] that individual and brave, if you like, really,
+
+[34:17] I just, you know, missed all the problems they were having.
+
+[34:21] I just think it's remarkable,
+
+[34:23] and it still doesn't really sound like anything else,
+
+[34:26] while sounding like lots of other things,
+
+[34:28] if you see what I mean.
+
+[34:29] No, absolutely.
+
+[34:30] You know, it's not.
+
+[34:31] I just, it's the kind of album you can kind of curl up in bed with,
+
+[34:35] and it'll always be elbowing you in the sides,
+
+[34:38] and slapping on the head, and all this kind of stuff.
+
+[34:40] But that's what you want next to you.
+
+[34:42] Absolutely.
+
+[34:43] It's such a weird record.
+
+[34:45] I mean, I've just had a soft spot for weirdness,
+
+[34:48] and minor characters and things.
+
+[34:50] I mean, me and my brother have done a mod Flanders podcast
+
+[34:53] for the last five years,
+
+[34:55] and it doesn't get much more obscure than that.
+
+[34:57] So give me room to live.
+
+[34:59] Give me a missing winner.
+
+[35:01] Give me levitate, and I'm happy because it's just,
+
+[35:05] it's just desperate, and that's what you want in a band.
+
+[35:09] It's just like, we're just desperate to scratch something together
+
+[35:13] and put out there, and it's like,
+
+[35:14] oh, we just accidentally did something absolutely amazing.
+
+[35:19] Exactly.
+
+[35:20] Max says, blindness, the weird, fake intro lures you into turning it up,
+
+[35:25] then proper kicks you in the balls,
+
+[35:27] what an absolute steamroller over a track.
+
+[35:29] There's a Derek and Clive sketch where Doug says,
+
+[35:31] I was walking down the street,
+
+[35:33] I was still saying, no, you fucking, you can't,
+
+[35:36] which I always think of that weak opening, brilliant.
+
+[35:40] Snare says, not sure the album version represents a definitive take,
+
+[35:43] but probably the most impressive heavy entry into the late era canon.
+
+[35:46] Danny, he's saying it's calling it late era.
+
+[35:49] He's a new boy.
+
+[35:50] He's not acceptable, is he?
+
+[35:51] Mid-era.
+
+[35:52] Mid.
+
+[35:53] When I'm bored, I break the contract and overdub Jules Boogie Wiggy Piano Wimps that head,
+
+[35:58] because there was the story where they signed the contract
+
+[36:01] that Jules wouldn't play on their stuff.
+
+[36:03] And then Stu says, blindness, one of the best things from the period of fluctuation
+
+[36:08] before the last band settled in.
+
+[36:10] The growling bassline and superb drum groove and the turn taking video lane
+
+[36:14] is synths and the guitar stabs are brilliant.
+
+[36:16] Mezzies, musings are really evocative and the whole thing's,
+
+[36:19] it's like a tease that builds bit by bit,
+
+[36:21] but doesn't ever seem to culminate.
+
+[36:23] Tantric Fall, it was a fantastic live too.
+
+[36:26] What does DB think of this madness?
+
+[36:28] Well, it's a build a lot guys.
+
+[36:30] And that comment said the tease or the kind of,
+
+[36:34] I was doing a bit of music theory reading on this,
+
+[36:37] because I believe it's a one, three, seven and a minus scale.
+
+[36:40] And that kind of has this unfinished feel.
+
+[36:42] Okay.
+
+[36:43] It almost looks like when it loops back to the beginning,
+
+[36:45] you always feel compelled to keep going to kind of desire
+
+[36:48] that kind of feeling for continuance.
+
+[36:50] I think blindness does that really well.
+
+[36:53] I also just like, I really like the fact that this by 2005,
+
+[36:57] like, okay, it's mid period fall, if we say,
+
+[37:00] but this was a band that kind of who's,
+
+[37:02] for most people, a great hit.
+
+[37:04] The most important times were way behind them,
+
+[37:06] but this picked up loads of fans.
+
+[37:07] This one, I know people who got into the fall because of blindness.
+
+[37:11] It's like such a banger, like people who this became
+
+[37:15] the defining sound of the fall, rightly or wrongly.
+
+[37:18] To get here, by the way, it be reprised,
+
+[37:20] Jane Prophemic and Exploding Chimney.
+
+[37:23] Just throw that one out there.
+
+[37:25] I'm not the world's biggest fan.
+
+[37:26] I think as Danny alluded to,
+
+[37:27] there are some people who don't love it because it's simple.
+
+[37:31] It's quite, it's quite like, I prefer slightly messier
+
+[37:34] and or maybe slightly, just slightly,
+
+[37:36] but I've got a lot of respect for it.
+
+[37:38] Does that sound insincere?
+
+[37:40] I think it possibly does.
+
+[37:42] Ten Houses of Eve beat this perfect day and is this new,
+
+[37:46] which might be the first time it's beaten two songs
+
+[37:49] I've never heard of.
+
+[37:50] Don't recall hearing my notes here.
+
+[37:54] I wrote Bit Chris Morris.
+
+[37:56] Reminds me of the theme to the Peter Geden Brassai,
+
+[37:59] where they switched it to a drum and bass theme.
+
+[38:02] And then, yeah, I noted the lyric that
+
+[38:04] if only Thou could in a rap sort of style,
+
+[38:07] I really like that, yeah, the pseudo poetics of Thou
+
+[38:10] because that is a misuse of Thou, because it's Thou hast.
+
+[38:13] If Thou hast could, makes no sense.
+
+[38:15] But in a rap sort, I'm really intrigued
+
+[38:18] by what he's consuming here to make this weird,
+
+[38:22] this feels like a joke construct.
+
+[38:24] Bedecked in lace.
+
+[38:26] Bedecked in lace, like the deliberate kind of juxtaposition
+
+[38:29] of medievalness and almost like the apotheosis
+
+[38:32] of contemporary rhyme forming rap.
+
+[38:35] And he's somewhere in the middle of those things.
+
+[38:37] Well, if he does say rap, because there is an argument,
+
+[38:39] he might be saying, wrapped.
+
+[38:41] Okay, well, I'm going to say wrapped,
+
+[38:44] because that's what I've read.
+
+[38:46] It makes sense in my head.
+
+[38:47] Musically, I like the breakdown in the middle
+
+[38:51] where it kind of returns to that,
+
+[38:53] I come and stand at your door, piano side.
+
+[38:55] Birthday song is the cost.
+
+[38:58] It's almost identical to birthday song.
+
+[39:01] Yeah.
+
+[39:02] I mean, my view on Levitate is that it's a great album,
+
+[39:05] but a lot of the songs should not be separated out
+
+[39:08] and held to the light in this way.
+
+[39:10] Just kind of because I think it's such a wonderful,
+
+[39:13] like 40 odd minutes of bricolage.
+
+[39:15] And like, when you, you know, it's like taking out a piece
+
+[39:18] of a collage and examining it on its own,
+
+[39:20] maybe it doesn't quite do it justice.
+
+[39:22] But this is a close one.
+
+[39:23] I've still not really made my mind up.
+
+[39:25] Let's see what someone else thinks.
+
+[39:26] Yeah.
+
+[39:27] I mean, with you on that stuff,
+
+[39:29] let me play.
+
+[39:30] So there's a suggestion that the Pantherburn stuff
+
+[39:33] definitely was an influence.
+
+[39:35] Like they covered boys wear blues,
+
+[39:37] like almost identical to the Pantherburns version.
+
+[39:40] And so they've got a song, a blind man.
+
+[39:42] Let's have a listen, see if it's any closer than the Beastie Boy.
+
+[39:45] It's one that I threw in earlier.
+
+[39:50] Not really, to be honest.
+
+[40:10] I mean, I think I was one of the people that was pointing out
+
+[40:13] the Pantherburns link with blind man.
+
+[40:15] And they hung out with Tav Falco and the Pantherburns
+
+[40:18] at one point when they were talking to the States.
+
+[40:20] And he clearly, MES clearly had the record.
+
+[40:23] Oh yeah.
+
+[40:24] That was pretty old.
+
+[40:25] I think there might even been a photo of it somewhere
+
+[40:27] on the back of one of the albums.
+
+[40:28] So definitely the case that that's where he's sourced
+
+[40:31] some of this stuff.
+
+[40:32] But he did seem to have a, Mark Smith didn't seem to have
+
+[40:34] a soft spot for some of those old blues songs.
+
+[40:36] And I'm pretty sure that the Pantherburns version
+
+[40:38] of blind man is muddy waters or somebody did blind man blues.
+
+[40:42] So I think it's taken from an old blues song by Bushes.
+
+[40:46] Yeah.
+
+[40:47] And that's just a state of like blues, you know,
+
+[40:50] walking kind of baseline.
+
+[40:51] Alex Chilton was in Pantherburns at that time,
+
+[40:54] which is a weird connection between big star and the fall that,
+
+[40:58] you know, I think he only made one comment.
+
+[41:00] This is a very Alex Chilton in the songs, didn't he?
+
+[41:03] Yeah.
+
+[41:04] Yeah.
+
+[41:05] Arguably.
+
+[41:06] Arguably.
+
+[41:07] Alistair, what do you reckon to Eve and blindness?
+
+[41:12] Well, you know, blindness is a belt in tune.
+
+[41:15] The production on it really like things just the sound of the bass
+
+[41:20] and you know, the solid drumming kind of a spanner.
+
+[41:24] The song keeps it going.
+
+[41:25] A dead repetitive.
+
+[41:27] Don't mind that bit of repetition, repetition,
+
+[41:29] occasionally good vocal performance.
+
+[41:31] And I did not pick out the D work hard bit in there.
+
+[41:35] I'm going to be cycling.
+
+[41:37] Definitely not a short one.
+
+[41:39] But it's kind of like the main ten,
+
+[41:43] that kind of like dancing groove to the root manoeuvre.
+
+[41:46] But, you know, the sort of nastiness of the bass sound,
+
+[41:50] good combination.
+
+[41:52] Ten Ashes of Eve.
+
+[41:54] It sounds a bit mashed up for me.
+
+[41:58] Kind of mentioned the piano bit,
+
+[42:00] which just sounds like, you know, it's demo mode.
+
+[42:04] And you've got the jungle thing going on.
+
+[42:06] And, you know, separately,
+
+[42:07] they probably work quite well,
+
+[42:09] but like it just sounds chucked together.
+
+[42:13] Yeah, a little bit on the half back side.
+
+[42:16] An interesting one to start the LP with,
+
+[42:19] but I do like the LP.
+
+[42:21] But this one, I just, yeah, I sort of struggle with the little.
+
+[42:25] Which is interesting, I was like,
+
+[42:27] do you often talk about half bass,
+
+[42:29] bass and crappy and shitty ideas appealing to you,
+
+[42:33] but not with a fall?
+
+[42:35] No, that's just generally my approach to life.
+
+[42:38] Very good. Very good.
+
+[42:40] Do as you do.
+
+[42:42] Max has more than once talked about how he listened
+
+[42:47] to the beginning of Ten Ashes of Eve
+
+[42:49] and then basically turned off the album
+
+[42:51] and didn't listen to the fall for like five years.
+
+[42:54] So here he's been telling us,
+
+[42:56] this is the song that made me rage quit listening to the fall.
+
+[43:00] I'm not even joking.
+
+[43:01] I still think it's shit and they needed to get M.S. into the studio
+
+[43:04] before he got completely mashed up.
+
+[43:06] To be honest, I don't think M.S. is the worst.
+
+[43:09] Is the problem with this song.
+
+[43:11] I have a very soft spot for it,
+
+[43:13] but it is like really slim since tiny drum and bass light
+
+[43:19] apparently caught the melody off a seed song.
+
+[43:24] I mean, I actually think that breakdown with those cheesy pianos
+
+[43:28] is delightful, but I've got a lot of time for Julie
+
+[43:31] is kind of handing this and it does seem like it was just Julie
+
+[43:35] or maybe Grant just trying to do whatever
+
+[43:38] with the madness flying around of Psy,
+
+[43:40] quitting probably and Steve quitting not long after that
+
+[43:44] and those boys coming and going and M.S. being wherever he was.
+
+[43:48] And I just love those like that monkeys.
+
+[43:50] I just love that era where they were just sticking like a break beat
+
+[43:54] on everything and just like hoping that it would work
+
+[43:58] and like almost none of it did.
+
+[44:00] Snarr says, post-cog unconvincing genre chasing.
+
+[44:04] I truly believe the fall should have become a purely electronic group
+
+[44:07] in the 2000s, but with most on Mars, not one of those free CD is
+
+[44:10] you got stuck to the cover of future music.
+
+[44:12] It's interesting the most on Mars thing.
+
+[44:14] So next time we don't like we're guest free, I'll do a mouse on Mars.
+
+[44:17] It's very, very long overdue.
+
+[44:19] But they were on the scene when they do an Imperial wax
+
+[44:22] and it's weird to think like they could have gone the von Sundfeld route
+
+[44:26] and but they didn't.
+
+[44:27] They went the more meaty rock and roll route with them with with
+
+[44:31] Imperial wax and the next few records,
+
+[44:33] which is I guess what Smith wanted to do for me with blindness here,
+
+[44:36] just to go back, it's like it's it's on the right side of that
+
+[44:40] pubby chuggy rock.
+
+[44:42] I really do like it.
+
+[44:44] And I think when I did that, so I did, I made that mix of I put
+
+[44:48] the acapella of Smith over the top of the Richmond even it works
+
+[44:51] because strangely enough, I went to first did that.
+
+[44:53] I thought, I'm going to have to stretch it and maybe change the key.
+
+[44:56] And it's like, no, it's in the same key and the tempo is exactly the same.
+
+[44:59] It's like, okay, not hiding it too much.
+
+[45:02] When we talk to Spenny was like, oh, yeah, it's like, you know,
+
+[45:05] I think there might have been a bit in it.
+
+[45:07] The idea.
+
+[45:08] Doesn't want to lose those that that 50 pence reality check that he
+
+[45:12] probably got at some point.
+
+[45:14] Where are we?
+
+[45:15] So Stuart says, Crispy and hollowed sound 10 houses of even when
+
+[45:19] you're listening through earbuds, you get free on a plane.
+
+[45:22] What's a mid range?
+
+[45:23] It creates an interesting atmosphere and sound world and prepares
+
+[45:26] the way for those whistle and nostalgia tugging house of pianos.
+
+[45:30] This is the kind of track I wish they'd sat on a bit and tackled
+
+[45:33] again when things were less chaotic and miserable because there's so
+
+[45:36] much potential.
+
+[45:37] It's an interesting experiment that I enjoy every time.
+
+[45:40] Turn around and face the 10 houses of Eve identity art.
+
+[45:44] If only the shards would relocate back in place and the blood will flow.
+
+[45:48] Do you believe?
+
+[45:49] Yes.
+
+[45:50] Do you believe in life after Shanley is the question we must ask?
+
+[45:55] Let's take the obligatory vote.
+
+[45:58] Danny blindness or Eve.
+
+[46:02] Much as I love 10 houses of Eve, I'm going to go with blindness because I love it
+
+[46:06] more.
+
+[46:07] Yeah, it's an easy one in many ways.
+
+[46:10] I'm also going for blindness because I think there's a charm to 10 houses of
+
+[46:15] Eve, but I can't really really go the other way.
+
+[46:18] Max and Stuart have also gone for blindness.
+
+[46:20] So the boys here, I hope I'm not putting you off, but you've got all your
+
+[46:24] votes have got a lot of work to do if you're going the other way.
+
+[46:27] Do you believe which way you're going?
+
+[46:29] I'm going to go with the majority as always.
+
+[46:32] As always.
+
+[46:33] Why rock the boat?
+
+[46:35] Alastair, which way are you going?
+
+[46:37] I'm not rocking the boat either.
+
+[46:38] I'm going with blindness.
+
+[46:40] 600 points for 10 houses of Eve.
+
+[46:42] Fair enough.
+
+[46:43] All right.
+
+[46:44] And that takes us to the last showdown, which is an interesting little team up
+
+[46:49] between pine leaves off cerebral caustic and H-O-W, history of world off seminal.
+
+[46:56] Let us see what these can do for us.
+
+[46:59] Denkira Yo Setsuyaku.
+
+[47:01] No, Eve plays with herself.
+
+[47:03] She's very much, she's made some cash on Amazon.
+
+[47:05] Oh, if anyone else wants to make cash, Amazon's the place to go.
+
+[47:26] I'm going to go with the majority.
+
+[47:28] I'm going to go with the majority.
+
+[47:30] I'm going to go with the majority.
+
+[47:32] I'm going to go with the majority.
+
+[47:34] I'm going to go with the majority.
+
+[47:36] I'm going to go with the majority.
+
+[47:38] I'm going to go with the majority.
+
+[47:40] I'm going to go with the majority.
+
+[47:42] I'm going to go with the majority.
+
+[47:44] I'm going to go with the majority.
+
+[47:46] I'm going to go with the majority.
+
+[47:48] I'm going to go with the majority.
+
+[47:50] I'm going to go with the majority.
+
+[47:52] I'm going to go with the majority.
+
+[47:54] Let's go.
+
+[47:58] Let's see.
+
+[48:02] I can treat you to visit the coastal pillboxes.
+
+[48:14] I like to delve into structure, less than debauchers.
+
+[48:18] And I am the one who stamps on all ages From 16 to 40 over and under
+
+[48:31] I am monolithic and the black ice on the corner
+
+[48:38] It's Pine Leaves and how Danny what what does he do for you?
+
+[48:50] Well, Pine Leaves, I remember I think it's the last track on Srebbel Kosta
+
+[48:56] Which is probably one of my least favourite albums
+
+[49:00] But MES in unusually reflective mode
+
+[49:04] And there's something genuine kind of emotion and feeling
+
+[49:09] I think in what he's trying to get across as far as we can tell
+
+[49:12] Something about well not concentration camps
+
+[49:16] There's clearly some kind of sampled voice of a tour of one of these places
+
+[49:21] So whether that's a Japanese one or a German or Austrian one I don't know
+
+[49:25] But it's one of the songs I do keep me to dig into it a bit more detail
+
+[49:30] And see if we can work out a bit more about it
+
+[49:32] He's spoken about members of his family who are impacted by the war
+
+[49:36] Or held in prisoner of war camps
+
+[49:39] So you feel like there's something genuine and heartfelt there
+
+[49:42] Which is interesting I remember liking it on that album
+
+[49:46] Which as I say isn't one of my favourite ones
+
+[49:49] Just as something a bit different and unusual
+
+[49:51] The music though there's something sad going on there
+
+[49:55] Or something reflective going on there
+
+[49:57] But then there's peculiar upbeat stuff keeps happening
+
+[49:59] And I'm never quite sure what the tone of it's supposed to be musically
+
+[50:03] So I find it a little bit confusing
+
+[50:05] You know what I mean, there's just something odd
+
+[50:07] Well I mean obviously the bizarre series of choices to put deadbushes, trumpets all over it
+
+[50:14] Is just it just throws you off
+
+[50:18] And you know you would think is that intentional or did Smith just say how I like that
+
+[50:22] Or is it a deliberate attempt to have some kind of conceptual thing going on?
+
+[50:29] I don't think so
+
+[50:30] I'm in no position to know
+
+[50:32] You know I do like it
+
+[50:35] And it's one of those unusual kind of thoughtful songs that he did occasionally
+
+[50:40] Not never
+
+[50:41] HOW though is the more intriguing one
+
+[50:44] Less idea of what he's going on about than Pine Leaves really
+
+[50:47] But not dissimilar in some ways
+
+[50:50] I'm convinced there's some source to this
+
+[50:54] Like Gunter Grass novel or something like that
+
+[50:57] The bits of it that just strike me as similar to stuff like the Tindrum or other stuff that he wrote
+
+[51:02] And there's something in there that almost feels like crossword clues
+
+[51:06] There's a reference there to Butterstile Lane in Prestwich for example
+
+[51:10] Right, yeah
+
+[51:11] There's this stuff there that you can find
+
+[51:14] So it's interesting lyrically
+
+[51:16] It feels like he's doing proper poetry in some ways
+
+[51:19] But it's really difficult to interpret
+
+[51:23] Musically it's kind of stopping and starting and bumbling along
+
+[51:28] But I do like that
+
+[51:30] I enjoy listening to it when I do
+
+[51:35] And I probably listen to it more than I do Pine Leaves
+
+[51:38] It doesn't kind of tonally confuse me in the way that Pine Leaves does
+
+[51:42] I'm not sure if that makes his better or worse
+
+[51:45] But yeah, I do like it
+
+[51:47] I think H.O.W clearly means History of the World
+
+[51:50] And there's a text in Renegade which is called that
+
+[51:54] And which seems to refer back to this
+
+[51:56] Whether it's an early draft or a poem it's based on or something like that
+
+[52:01] I do like songs that make you think
+
+[52:04] Make you hunt for the sources and the inspirations and try and work it out
+
+[52:09] Both these songs do do that
+
+[52:11] H.O.W is more so if you see what I mean
+
+[52:16] It stimulates my curiosity
+
+[52:19] It's very dense lyrically and I get you
+
+[52:22] I think it seems too dense at this point from what Smith was writing
+
+[52:29] To be that he just decided he was going to write this really kind of deep
+
+[52:33] But to me it makes more sense that this is based on a text
+
+[52:38] Or something he was reading or something he found
+
+[52:41] And then yeah, the fact that the tone of Pine Leaves
+
+[52:46] With the audio playing and then the lyrics that seem to kind of match the mood
+
+[52:52] And then just the trumpets just throw it way off
+
+[52:56] It's absolutely brilliant
+
+[52:59] I absolutely love it
+
+[53:01] Yeah, so real cost-taker take the joke
+
+[53:03] I'll take Life Just Bounces which they did again anyway
+
+[53:07] And I'll take this one and that's about it from that album
+
+[53:10] I can take that or leave it
+
+[53:13] Yeah, Stoose's Pine Leaves this again
+
+[53:16] It starts so well then those fucking awful, cheap synths pop and ruin it
+
+[53:20] One day a mix will surface with the cheese removed
+
+[53:23] Now be able to wallow in the lovely texture of sounding voice
+
+[53:26] Well, yeah, I mean the picking is really nice
+
+[53:29] I'm guessing that it's still Craig at that point
+
+[53:32] Because he was on his way out after that, right?
+
+[53:35] This is Craig's last record I think
+
+[53:37] He did cerebral caustic and then I think yeah, he left just before they started
+
+[53:41] Bramas on it as well though, isn't he?
+
+[53:43] Bramas on this on them
+
+[53:45] I don't think so, not on three bro, no
+
+[53:47] Oh, sorry, I was down
+
+[53:49] No, I don't think so but Burns does play some guitar
+
+[53:52] And you know, again the mystery of Carl Burns
+
+[53:55] You wouldn't put it past him for Burns to have pulled this out of the bag at some point
+
+[53:59] So I'd be really interested but I'm still putting it down to Craig
+
+[54:04] And the mix is there as well so it's possible
+
+[54:07] Yeah, I'd like to know a little bit more
+
+[54:11] Max says, Pine leaves one of those audio colors tracks with lots of layers
+
+[54:15] Was it actually the lore in the fall camp that was doing the keyboards
+
+[54:19] That picked the Nafis brass preset
+
+[54:22] And Snir says, early four-tet pre-cog, interesting, yeah
+
+[54:26] You could make an argument for that folk tronic, I kind of think
+
+[54:29] It's not quite there but it's not too far off either
+
+[54:32] It's all going nicely with micro tapes and then part, part, part
+
+[54:35] Like clown car join a funeral entourage
+
+[54:38] Sloth shortly before the turn off of the crematorium
+
+[54:42] Yeah, Alistair, what do you reckon?
+
+[54:45] Well, I haven't stopped Pine Leaves, it was about Courtney Pine leaving the building
+
+[54:48] But there you go, this isn't brass thing
+
+[54:51] I do kind of like it in a perverse way
+
+[54:55] It's like one of those things that Max met to do just to piss off people in the band
+
+[54:59] Similar to sort of the bonkers in Phoenix approach
+
+[55:03] Yeah, but it does remind me of some synth track
+
+[55:09] Like the synth brass thing to some sort of like 80 zombie film or something like that
+
+[55:14] Or like a SNES game like Zelda or something
+
+[55:17] But I do like the synth tracky quality to it
+
+[55:21] Some of the backing vocal things work well
+
+[55:24] Nice subtle delivery from Max Smith
+
+[55:28] There's some trippy sort of effects in there that sound a bit dirty but they're all ok
+
+[55:34] But yeah, quite like Pine Leaves especially for the brass
+
+[55:38] H.O.W. can reminds me of the club and GM's experience but without a brass section
+
+[55:45] And considering a move to Memphis
+
+[55:48] Yeah, it's just missing something I think
+
+[55:53] It's not even the chorus a bit but they're just hitting the same chord
+
+[55:59] And I think it's the chord more than the rhythm of it
+
+[56:03] That just doesn't do it for me
+
+[56:06] But it's got like a nice detective-y espionage-y type synth track vibe to it
+
+[56:14] But yeah, I reckon it would be one that might have been rushed again
+
+[56:18] Because it's a contractual obligation time
+
+[56:21] Yeah, indeed, absolutely
+
+[56:24] People keep pointing at that brass-senty thing
+
+[56:28] And it's one of those things that you can absolutely imagine, Smith
+
+[56:31] And I still to this day don't know how to take it
+
+[56:34] But you can imagine him just sitting there and picking his ear and just saying
+
+[56:38] Yeah, I kind of liked it, I thought it was good
+
+[56:40] And you really don't know whether he's taking the piss or whether he actually does
+
+[56:45] Oh, telegram for Blaine James experience there
+
+[56:49] But yeah, so...
+
+[56:51] I've not got that one
+
+[56:52] Can have it? When next time I see you mate, you can have it
+
+[56:55] 20 quid, no problem
+
+[56:57] But how?
+
+[57:01] Snir says, given Seminole pissed off what most fans on its release
+
+[57:05] Side One track stands up quite...
+
+[57:07] Stride One stands up quite fably when compared to more predictable garage rock fodder
+
+[57:12] Of later years, Howe is a decent example, needs a big kick up the arse though
+
+[57:16] I mean, I've said the same about Seminole and it's like
+
+[57:19] I've just started to more or less think of it as
+
+[57:24] Has basically an EP with a bunch of live tracks on it
+
+[57:29] And if you think of it that way, it's actually far less of an offensive thing for them to have done
+
+[57:36] Because Deadbeat has sent a pinball machine, Howe, and Squidlaw
+
+[57:40] And then Molys can tear off for a little bit of fun at the end
+
+[57:43] Is a very decent EP, but I'm not sure if you can really do that
+
+[57:49] That's allowed, DB, is that allowed?
+
+[57:51] Yes, I grant it
+
+[57:53] Because it makes my memories of buying Seminole live so much richer for it
+
+[57:57] One second, I need to have a drink of water
+
+[57:59] Very good, stay hydrated
+
+[58:00] Thank you, so...
+
+[58:01] I'm going to pick up on something that Danny said, but it's kind of half-assed
+
+[58:05] And it's going to come at the end of all the things I'd already planned to say
+
+[58:08] So Pine Leaves got here by beating City Dweller and the A-Fid
+
+[58:12] I wrote, the lyrics here reveal something very interesting
+
+[58:16] I really like these lyrics, I don't often read over them
+
+[58:19] I just thought it was a shame that he breathed the lyrics into a cup in the next room
+
+[58:23] Rather than into a microphone for the track they were actually recording
+
+[58:28] I'd always written Sarabal Kostakov as like a bad garage rock
+
+[58:32] But this proves that it's also a bad midi pop as well
+
+[58:35] I can't stand it, but the line perspires in the form of an angel is wonderful
+
+[58:40] It's beautiful, isn't it?
+
+[58:42] It's incredible, that's just the majesty of the band
+
+[58:46] Even in the midst of horror, the most sublime image
+
+[58:51] H.O.W. beats Cabit Up and Bremen Necht, which led me to quip
+
+[58:56] More like H.O.W. the hell has this gone this far
+
+[58:59] Very good, happy hop
+
+[59:01] Thank you
+
+[59:02] Well, unless there's some Brendan Nonsense going on here
+
+[59:07] That appears to be what has happened, I've not listened to the episode in question
+
+[59:10] Also, is this a sketch for guest informants?
+
+[59:12] I always end up singing Bag Does, Duh Duh Duh Duh Duh
+
+[59:16] Whenever this one plays, and it's just before it, so it's sort of...
+
+[59:19] There's a case, but never know
+
+[59:21] There's a case, just to pick up on what Danny noted
+
+[59:23] Which was probably more interesting than anything I've said
+
+[59:26] On the Guntergrass Tindrum thing
+
+[59:28] There's a café that I sometimes go to in Prague
+
+[59:31] I won't name it on that, because I want to keep it private
+
+[59:34] And it's a café that apparently people like Roger Scruton would go to
+
+[59:40] During the Czechoslovakian era to speak to dissidents that he was trying to get out
+
+[59:45] And there are many copies of what you might call the great liberal texts
+
+[59:50] Including the Tindrum
+
+[59:51] So I'm just wondering if this is a cultural atmosphere thing that he's plucked out
+
+[59:55] This was something that was intelligent
+
+[59:57] So yeah, if indeed it is a kind of a Tindrum as the source text
+
+[60:01] I think it could be, I think that's a really good observation
+
+[60:04] I think the song is more competent than Pine Leaves
+
+[60:08] But no more interesting for it
+
+[60:11] I mean, if you look again, I would say Squidla and Howe are pretty dense
+
+[60:16] And Howe are very dense
+
+[60:17] And they follow Pinball Machine and Dead Peat Descendant
+
+[60:20] Which are the opposite of that, especially Pinball Machine
+
+[60:22] So it's a really interesting kind of mix of ideas there
+
+[60:26] And yeah, that line about Purcell always
+
+[60:28] And in fact that leads me to think of Pender's Fen whenever I hear Pine Leaves
+
+[60:35] So it's kind of that, I know Purcell doesn't appear in the form of financially
+
+[60:39] Well Elgard does
+
+[60:41] Elgard in many ways does, yeah
+
+[60:44] So I think that kind of pastoral idea of England mixed with this underlying fear of dread
+
+[60:54] And he just doesn't give you enough to go on
+
+[60:56] But interestingly enough, he doesn't take too many detours
+
+[61:00] You know, I think it was either the week where he's banging on by some song
+
+[61:04] Or how he basically ruined it with like throwing in a couple of lines
+
+[61:09] That just have absolutely nothing to do with the theme of the song
+
+[61:12] Something which I do all the time and should probably stop doing
+
+[61:16] Ruin in my own songs with that same kind of shit
+
+[61:18] And then yeah, the dense lyrics of H.O.W.
+
+[61:22] But musically, for me the drum beat and the twangy bass is really good
+
+[61:28] But I'm not sure it's quite enough
+
+[61:30] And that kind of yeah, that shitty midi pop, that pre-folk tronica
+
+[61:35] I can't get enough, I cannot get enough of that
+
+[61:38] And Bush, he's a lovely little man and I just want his trumpets over everything
+
+[61:46] Stu said, hi, we saw fucking good sparse texture
+
+[61:49] Classic barking bassline and playful percussion with massive open spaces
+
+[61:53] Allowing a counterpoint to the really inventive guitar work
+
+[61:56] And that's all before we get to the lyrics and subtle snarling delivery of history itself
+
+[62:01] Seemingly an uncurring voice delighting in misdirection and false symbols, masterpiece
+
+[62:06] He does make a case and it is that kind of, might have actually been you, Danny
+
+[62:11] You pointed out the idea of how the Stones doing sympathy for the devil
+
+[62:15] Or others have done of kind of the personification of these forces of, in this case, history
+
+[62:21] Max, musically more interesting than you at first think
+
+[62:24] Sounds a bit like at least two guitarists are doubling Doc Shanley
+
+[62:28] One of the better bits of Seminole Live but doesn't really belong in this big league
+
+[62:33] Well, I'm sure that Granada reports one
+
+[62:36] It's much earlier, Solista in studio, but you've got Carl
+
+[62:40] It's one of the few videos I've seen where you can see Carl playing the bass
+
+[62:44] So they're both up there on bass. I'm just interested, it's such a mystery at this time of what was going on
+
+[62:49] But yeah, good times. Anything else to add or is it the vote time?
+
+[62:54] Well, I was just going to observe that there is another Tindrum reference in the fall
+
+[62:59] Which is on the cover of the O Brother single
+
+[63:02] Oh, no
+
+[63:03] There's a kind of the red and white Tindrum on the cover there
+
+[63:07] So it's something that, it's all, you know, it's hard to make this stuff stand up really at the minute
+
+[63:13] But one day I'll get there
+
+[63:15] One day we'll all coalesce into some wonderful theory of everything
+
+[63:20] I did also, I'm doing live annotation here
+
+[63:23] I did also wonder if the kind of the angel, whether that's Elgar or whoever it is, Purcell
+
+[63:31] Might, if we're sticking with the kind of war and the effects of war
+
+[63:37] Might call back to the kind of Angel of Mons idea, all that kind of stuff
+
+[63:42] Again, it's hard to, it's hard to get a grasp of that kind of stuff, isn't it?
+
+[63:46] It's just a line here and there
+
+[63:48] All I ask of you, Danny, is when you get to this on your site, I would like to say
+
+[63:53] Danny No said on the Fall Like podcast and then explain what you said in a
+
+[63:57] I could cite myself saying this on there, yeah
+
+[64:00] That would be dreams come true
+
+[64:03] It's a bit of a mess
+
+[64:05] It does, it does
+
+[64:06] But time for a vote
+
+[64:08] And so it is Pine Leaves Against How and DB, which way are you going?
+
+[64:14] Rough one, but I think just the beauty of that line in Pine Leaves wins it for me
+
+[64:19] Okay, interesting, interesting indeed
+
+[64:22] Alistair, which way are you going to go?
+
+[64:24] Pine Leaves for me, please
+
+[64:26] Oh la la
+
+[64:27] Stuart has gone 0 points for Pine Leaves and 5000 for How, that's how much he likes it
+
+[64:33] And this just makes it all the more sweet as I also vote for Pine Leaves
+
+[64:37] Danny, which way are you going?
+
+[64:39] Well, now then, I was going to go for HOW
+
+[64:42] Still all to play for the Ju plus Max, so
+
+[64:45] Well, but I have been persuaded by the discussion here
+
+[64:49] I think I'm going to vote for Pine Leaves
+
+[64:52] Indeed, get Dave Bush another couple of pounds in the coffers there
+
+[64:57] Pay for that extension on his house in Spain
+
+[65:01] It wouldn't have mattered anyway, here's the big reveal, Max also voted for Pine Leaves
+
+[65:05] And so it's just the lone voice of Stuart
+
+[65:09] He's absolutely right, and this is where we're at in this competition
+
+[65:13] For true fall fans, he's the both top notch
+
+[65:16] But we have to say goodbye, and goodbye we say to How
+
+[65:21] Ten houses of Eve and Spencer must die
+
+[65:24] And with blindness behind the counter
+
+[65:28] And Pine Leaves going through
+
+[65:31] Oh indeed
+
+[65:32] Well Danny, thanks for joining us again
+
+[65:35] No pleasure
+
+[65:36] Yeah
+
+[65:37] You think you're actually going to finish this?
+
+[65:38] Well, we're approaching it, but I've got something that will throw a spanner in the works
+
+[65:43] That will annoy everyone and at least take the bill
+
+[65:46] Are you actually going to start again properly?
+
+[65:48] No, no, well as we know it's completely futile and you nailed it with your
+
+[65:52] What's yours called?
+
+[65:53] Which is an infinite voting
+
+[65:55] Oh, yeah, the pair-wise voting
+
+[65:59] It was every song paired against every other
+
+[66:02] The site that did that has died, I think, so that my own project
+
+[66:06] I don't know, I was on it not too long ago
+
+[66:09] Because periodically I do go on it to just see
+
+[66:13] This for fun and it's a great idea
+
+[66:15] And that is of course how it should be done
+
+[66:17] Just an infinite, infinitely pairing up fall songs against fall songs until the end of time
+
+[66:23] Brilliant
+
+[66:24] But I do hope that I think we've got Pencil on the horizon, the funky Psy book
+
+[66:29] Now we did talk to Psy, but we never really went through his book
+
+[66:33] And there's a lot of great stuff in there that we haven't talked about yet
+
+[66:36] So, DB, you're welcome to join us
+
+[66:38] It's still a while off, probably another couple of months
+
+[66:41] But we'll pencil you in for the actual fall
+
+[66:45] For the fall, the autumn, winter season if such a thing allows
+
+[66:48] And Alistair, it's always a pleasure
+
+[66:51] Take a few weeks off, but obviously we're not off
+
+[66:54] Because next week if all goes well we're going to talk to the We Are the Fall boys on their podcast
+
+[66:58] To talk about our favourite covers
+
+[67:00] So the world of the fall continues to eat its own tail
+
+[67:05] And take care, everyone, and be good
+
+[67:09] Bye
+
+[67:11] I actually had a paper sent back to me this week because I cited myself
+
+[67:16] Really?
+
+[67:17] Not for that reason, it's because it was meant to be anonymous
+
+[67:20] And because I said, as I have previously discussed, my name, my publication
+
+[67:25] So it can be done, and I have done it
+
+[67:29] Yeah, I think you're allowed to as long as you're citing legit stuff
+
+[67:32] And not just saying what you said to your mates on the buzz
+
+[67:35] Yeah, egg-ball exactly
+
+[67:37] So, next week we're doing We Are the Fall
+
+[67:43] And then what, we're having a few weeks
+
+[67:45] Four weeks off after that, and then we've got about ten more episodes left of this round
+
+[67:52] And then that's when the spanner goes in the works
+
+[67:55] Because I won't give too much away
+
+[67:58] Oh god, you can reveal it to Daddy
+
+[68:00] I won't give too much away, but it involves Don Van Vliet and his band, Catalog
+
+[68:04] So we shall see
+
+[68:06] Alright, I won't keep you any longer, have a good day my friends
+
+[68:09] Yeah, lovely to meet you Daddy
+
+[68:11] And you, cheers, bye
+
+[68:15] I'm an eagle, I'm full of cowards
+
+[68:18] I'm a cowboy, I'm living, I'm a cow, I'm a cowboy
+
+[68:28] So the poster, I'm full of
+
+[68:30] Well, well, well, well, well
+
+[68:35] Well, well, well
+
+[68:37] I'm a cow, I'm a cow
+
+[68:39] I'm a cow, I'm a cow
+
+[68:42] I'm a cow, I'm a cow
+
+[68:48] And the poster, I'm full of
+
+[68:50] Well, well, well, well
+
+[69:04] And take care, they're both obvious
+
+[69:07] Thanks for having us, thanks a lot
+
+[69:13] Well, well, well
+
+[69:21] It is very panda, panda-pans, isn't it?
+
+[69:23] Oh, it's beautiful
+
+[69:24] Yeah
+
+[69:25] I'm gonna play the whole thing
+
+[69:42] Blimey
+
+[69:44] Blimey
+
+[70:12] And for peace, for peace
+
+[70:14] for peace
+
+[70:16] for peace
+
+[70:17] for peace
+
+[70:28] ienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienstienst
