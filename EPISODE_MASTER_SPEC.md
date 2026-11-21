@@ -1,5 +1,5 @@
 # F.A.L.L.O.U.T. — MASTER EPISODE SPECIFICATION
-Version: 1.1 — 22 November 2026
+Version: 1.2 — 22 November 2026
 Repository: boleary1599-wq/fallout-podcast
 Published site: https://boleary1599-wq.github.io/fallout-podcast/
 
@@ -47,6 +47,21 @@ The navigation links may jump to sections lower on the page; the Results section
 - Avoid global changes that break other episodes. Prefer tested reusable class rules; verify effects before rolling out.
 - Preserve all content while refactoring; avoid deleting the essay, transcript, original audio, links or results.
 
+## Original audio acquisition and Whisper transcription — LOW-INTERVENTION WORKFLOW
+**Goal:** For each new episode, the assistant handles finding the original audio, acquiring a temporary working copy, transcription, cleanup, GitHub upload and disposal of the temporary MP3. The user should normally do nothing except provide the episode number and, if genuinely necessary, paste a short Terminal command supplied by the assistant. Do not make the user manually hunt for files, install software, upload MP3s, split recordings or copy transcripts if a connected tool can do it.
+
+1. **Check for an existing transcript FIRST.** Use GitHub to look for `transcripts/epNNN.txt` (and any original transcript/source transcript already in the repository). If a complete, usable transcript exists, reuse it: do not download or transcribe the audio again merely for convenience.
+2. **Find the authentic episode source.** Inspect the target episode page's existing Podbean/audio link, and if needed locate the corresponding official F.A.L.L.O.U.T. Podbean episode. Verify episode number/title before fetching. Prefer the direct original audio file URL from the episode's player/feed rather than third-party reuploads. Preserve the published audio URL and player; never remove or replace them while cleaning up temporary files.
+3. **Acquire a temporary MP3 only when necessary.** Download the original recording to a clearly identified temporary working path in an accessible assistant workspace. If a connected tool or environment cannot access the audio, explain the actual limitation and choose the simplest supported alternative. Do not claim to have downloaded audio without verifying the file.
+4. **Use OpenAI Whisper for transcription, preferably the `small` model** (the requested balance of quality, speed and resource use), with English language specified. Where locally available, use a compatible Whisper installation and ffmpeg; prefer a transcript with segment timestamps. The exact command depends on the user's machine and installation. Example ONLY for a working local Whisper CLI: `whisper episode.mp3 --model small --language English --task transcribe --output_format json --output_dir ./transcript-output`. Do not assume the assistant has a Whisper executable or the user's local filesystem; check first.
+5. **Minimise user work.** The assistant should carry out tool-supported operations directly, including fetching, processing, verifying and uploading. If local execution is essential because the assistant cannot run Whisper or access the audio, give the user one concise, copy-and-paste Terminal command or small script with paths adjusted to their setup. Explain what it does and what output is expected; do not imply that pasting code grants the assistant control of the user's Mac. Avoid repeated multi-step instructions or asking the user to manually move files.
+6. **Inspect transcript quality.** Check beginning, middle, ending and approximate coverage against the recording. Restore proper Fall song titles and obvious recognition errors without inventing dialogue. Maintain timestamps and preserve the complete source text. Whisper `small` does **not** inherently identify speakers: diarization/attribution requires separate audio/context verification, and unverified labels must not be passed off as fact.
+7. **Save the durable output to GitHub.** Upload the complete timestamped transcript under `transcripts/epNNN.txt` (or the repository's established canonical transcript convention) and ensure the episode page links to it. Confirm a successful GitHub commit and verify that the transcript is accessible **before deleting any temporary audio**.
+8. **Delete the temporary downloaded MP3 after success.** Once the full transcript is securely committed and checked, remove ONLY the specifically identified temporary MP3 in the assistant's workspace (or a temporary local file created expressly for this workflow, with a safe, explicit cleanup command if the user must execute it). Never delete the original recording from Podbean, any existing user-owned MP3, the site's player URL, or unrelated audio. Do not run a broad deletion or destructive wildcard. If transcription or upload fails, retain the temporary file until recovery is possible, and explain what remains.
+9. **Report succinctly.** Confirm the episode source, model actually used, transcript path, commit status, whether temporary MP3 cleanup was actually performed, and any attribution/quality limitations. Never claim Whisper was run or an MP3 was deleted without tool confirmation.
+
+**Operational preference:** This should feel like an assistant-managed pipeline, not a user-managed technical project. One short Terminal paste is an exception, not the default. If a required capability is unavailable, ask for the smallest possible user action rather than pretending it worked.
+
 ## Essay standards — MANDATORY FOR EVERY NEW EPISODE
 - **Length: 1,500–2,000 words** of actual essay prose, excluding transcript, results and navigation. Count words before publishing. Do not silently deliver 150–200 words.
 - **The Quietus-level criticism**: original, ambitious, specific, funny, intellectually engaged and rooted in the music, not generic AI review language.
@@ -83,12 +98,12 @@ The navigation links may jump to sections lower on the page; the Results section
 
 ## Release checklist
 [ ] Fetch the latest actual target file from GitHub, and inspect shared CSS/JS.
-[ ] Confirm exact title, date, audio URL, Podbean URL and original artwork.
+[ ] Confirm exact title, date, original Podbean/audio source URL and artwork; reuse existing transcript or obtain audio with minimal user involvement.
 [ ] Confirm order: banner → title → player → ARTWORK → NAV LINKS → ESSAY → TRANSCRIPT → RESULTS.
 [ ] Confirm every major element aligns to one 850px centered column.
 [ ] Confirm no giant gap below image, no crop, no overlapping title, no overflow.
 [ ] Count essay words: 1,500–2,000, thematic rather than song-by-song, no host mentions, strong music-specific and high/low references.
-[ ] Confirm transcript complete and continuous, readable, timestamped; every identifiable turn attributed on evidence, uncertainties clearly labelled; no artificial section headings or invented speakers.
+[ ] Confirm Whisper small (if transcription needed) actually ran, transcript complete and continuous, readable, timestamped; speaker identities evidence-based, no artificial section headings.\n[ ] Confirm transcript committed to GitHub, then delete only verified temporary downloaded MP3 and report cleanup status.
 [ ] Confirm all four results with winners AND losers.
 [ ] Check desktop and mobile rendering if a browser/screenshot facility is available; if not, say visual verification was not possible.
 [ ] Commit once with a clear message; verify successful commit and ideally refetch file.
@@ -103,7 +118,7 @@ Repository: `boleary1599-wq/fallout-podcast`.
 
 Write a **1,500–2,000-word Quietus-level essay** rooted in the full transcript, enriched with relevant highbrow and lowbrow references from the transcript and beyond. Make a cohesive thematic argument that mixes the songs across sections — **NOT one section per song**. Do not mention the hosts or podcast in the essay. Use musical specificity, verified Fall knowledge and eccentric humour. Preserve the full approved essay.
 
-Create a **complete, readable, timestamped, fully speaker-attributed transcript**. Identify all turns as accurately as the evidence allows; never invent a speaker identity as fact. Investigate uncertainties and clearly flag those that remain. No arbitrary song-pair headings or large gaps within the transcript.
+**Audio/transcription workflow:** First check for an existing transcript in GitHub. Otherwise locate the official original Podbean MP3, acquire a temporary copy, use Whisper **small** in English where available, verify and upload the full transcript to GitHub, then delete only the temporary MP3 after confirming the upload. Handle this yourself using connected tools; the user should ideally do nothing beyond supplying episode number, with at most an occasional short copy-and-paste Terminal command if necessary. Never delete the original hosted audio or invent successful tool actions.\n\nCreate a **complete, readable, timestamped, fully speaker-attributed transcript**. Identify all turns as accurately as the evidence allows; never invent a speaker identity as fact. Investigate uncertainties and clearly flag those that remain. No arbitrary song-pair headings or large gaps within the transcript.
 
 Show all four results with both winners and losers, **after the transcript**. Keep the three equal-width navigation boxes **below the artwork**. Verify title typography, 850px alignment, audio, artwork, desktop/mobile spacing and CSS before publishing. Tell me about any verification limitations.
 
