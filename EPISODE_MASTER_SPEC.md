@@ -1,5 +1,5 @@
 # F.A.L.L.O.U.T. — MASTER EPISODE SPECIFICATION
-Version: 1.4 — 22 November 2026
+Version: 1.5 — 22 November 2026
 Repository: boleary1599-wq/fallout-podcast
 Published site: https://boleary1599-wq.github.io/fallout-podcast/
 
@@ -76,6 +76,11 @@ The navigation links may jump to sections lower on the page; the Results section
 - **Essay and transcript must share the SAME visual treatment:** matching 850px outer width, cream `#f2efe4` panel background, navy `#18243c` text, identical panel padding, matching heading family and hierarchy, matching Georgia body text ~16–18px/1.8. The transcript must NOT suddenly switch to a dark navy container with separate white rounded cards for each passage. Use continuous cream paper with discreet dividers between turns. The results may remain navy/yellow.
 - Inspect both the page's actual HTML and global CSS for generated content/pseudo-elements and inherited spacing, especially if a large gap persists after fixing normal margins. Screenshots take priority over assumptions.
 - Keep original episode artwork above navigation, navigation immediately above essay with 12–24px spacing, and a modest 20–30px gap between essay and transcript.
+
+## EP31 follow-up: transcript width and mandatory provisional attribution
+- Transcript and essay must have **exactly the same outside left/right edges**: both are direct children of the same 850px `.page-body.wrap` container, both use `width:100%;max-width:100%;box-sizing:border-box`. Beware global `.episode-transcript` rules that give it a narrower percentage or max width; inspect computed widths and screenshot.
+- Every transcript passage should have an **explicit speaker label**. Where the recording or transcript does not support confident identity, the user prefers a **best-effort named guess** rather than a blank/anonymous passage, but guesses MUST be visibly labelled **estimated/provisional**, never represented as verified facts. Do not automatically alternate or cycle names to fill gaps: use actual audio and conversation cues wherever possible, and preserve the original unmodified transcript for comparison. Treat automated guessing as an interim draft requiring an audio attribution pass.
+- Avoid arbitrary fixed-size timestamp batches masquerading as speaker turns. Group by conversational flow, keep original timestamped source available, and make clear if diarization has not been independently checked.
 
 ## Essay standards — MANDATORY FOR EVERY NEW EPISODE
 - **Length: 1,500–2,000 words** of actual essay prose, excluding transcript, results and navigation. Count words before publishing. Do not silently deliver 150–200 words.
