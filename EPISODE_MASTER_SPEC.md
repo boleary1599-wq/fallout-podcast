@@ -1,5 +1,5 @@
 # F.A.L.L.O.U.T. — MASTER EPISODE SPECIFICATION
-Version: 1.2 — 22 November 2026
+Version: 1.3 — 22 November 2026
 Repository: boleary1599-wq/fallout-podcast
 Published site: https://boleary1599-wq.github.io/fallout-podcast/
 
@@ -61,6 +61,15 @@ The navigation links may jump to sections lower on the page; the Results section
 9. **Report succinctly.** Confirm the episode source, model actually used, transcript path, commit status, whether temporary MP3 cleanup was actually performed, and any attribution/quality limitations. Never claim Whisper was run or an MP3 was deleted without tool confirmation.
 
 **Operational preference:** This should feel like an assistant-managed pipeline, not a user-managed technical project. One short Terminal paste is an exception, not the default. If a required capability is unavailable, ask for the smallest possible user action rather than pretending it worked.
+
+## NON-NEGOTIABLE IMAGE / NAVIGATION / ESSAY TYPOGRAPHY CHECKS (EP31 regression, 22 Nov 2026)
+- **No large empty gap before or after the original episode artwork.** Inspect the space between audio/player, artwork and the three navigation boxes. The artwork must render at its natural image ratio, with `height:auto`, no fixed height, `min-height:0`, no artificial aspect ratio or oversized figure margin. Check inherited global `.page-body` padding and browser default `figure` margins. Keep only a modest intentional vertical gap (roughly 12–20px).
+- **The three navigation boxes MUST align precisely with the artwork's left and right edges.** The artwork, navigation and essay use the same 850px centred column. Navigation grid must be `width:100%`, `grid-template-columns:repeat(3,minmax(0,1fr))`; each button fills its grid cell with `width:100%;box-sizing:border-box`. Do not let shared global `.jump a` rules revert them to inline-block or add unaccounted widths.
+- **Essay HTML semantics are critical.** The essay title is ONE standalone `<h2>` (or appropriately nested heading), followed by a separate smaller italic deck `<p>`, then a separate compact byline `<p>`. Each thematic section heading is a standalone `<h3>`, and the following prose is in normal `<p>` elements. NEVER embed the deck, byline or opening paragraph inside a heading. Do not render raw Markdown underscores in HTML headings.
+- **Type hierarchy:** Main essay heading bold condensed ~30–43px; deck italic ~17–20px; byline ~13px; thematic section headings ~22–29px; body Georgia ~16–18px with generous leading. Headings must never consume full paragraphs in huge type. Match Episode 6's editorial rhythm.
+- **Check generated markup, not just word count.** Programmatically assert each heading closes before prose starts; verify all section headings and deck/byline are separate nodes. Inspect source around the start of the essay. Do not claim visual QA unless a browser screenshot/render has actually been inspected.
+- **Fix root causes in the existing CSS block.** Do not append yet another stylesheet or override layer. Where a global selector interferes, use targeted selectors within the episode's existing style block or refactor the original rules.
+- **Prepublish checklist:** zero oversized gaps, artwork and all three boxes exactly edge-aligned, equal box heights and type sizes, essay title/deck/byline/section headings/body in distinct properly sized elements, and desktop/mobile no horizontal overflow.
 
 ## Essay standards — MANDATORY FOR EVERY NEW EPISODE
 - **Length: 1,500–2,000 words** of actual essay prose, excluding transcript, results and navigation. Count words before publishing. Do not silently deliver 150–200 words.
