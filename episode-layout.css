@@ -1,0 +1,16 @@
+/* F.A.L.L.O.U.T. shared episode layout — v1. Opt in with <link rel="stylesheet" href="../episode-layout.css">. */
+:root{--fall-yellow:#ffe000;--fall-ink:#080d21;--fall-paper:#f2efe4;--fall-rule:#555e73}
+html{scroll-behavior:auto!important}
+.episode-character-strip{display:block;max-width:440px;height:auto}
+.episode-standard-jump,.jump{scroll-behavior:auto}
+.episode-results-bottom{width:100%!important;max-width:100%!important;box-sizing:border-box!important;margin:38px auto 64px!important;padding:25px 0 0!important;border:0!important;border-top:4px solid var(--fall-yellow)!important;background:transparent!important;box-shadow:none!important;color:#f6f1dd!important;scroll-margin-top:90px}
+.episode-results-bottom h2{font-family:Impact,'Arial Narrow',sans-serif!important;text-transform:uppercase!important;letter-spacing:.025em!important;font-size:clamp(32px,4vw,50px)!important;line-height:1.2!important;color:var(--fall-yellow)!important;margin:0 0 8px!important}
+.episode-results-bottom .results-subtitle{font:400 13px/1.6 system-ui,sans-serif!important;text-transform:uppercase!important;letter-spacing:.09em!important;color:#b9b9bd!important;margin:0 0 18px!important}
+.episode-results-bottom .results-matchups{border-top:1px solid var(--fall-rule)!important}
+.episode-results-bottom .results-match{display:grid!important;grid-template-columns:minmax(0,1fr) 42px minmax(0,1fr)!important;gap:12px!important;align-items:center!important;padding:17px 4px!important;border-bottom:1px solid var(--fall-rule)!important}
+.episode-results-bottom .result-winner{font-size:clamp(16px,2vw,22px)!important;font-weight:850!important;color:var(--fall-yellow)!important;overflow-wrap:anywhere}
+.episode-results-bottom .result-winner small{display:block!important;color:#d5d0bb!important;font:700 10px system-ui,sans-serif!important;letter-spacing:.12em!important;margin-top:4px!important}
+.episode-results-bottom .result-versus{font:700 12px system-ui,sans-serif!important;color:#a7afc3!important;text-align:center!important}
+.episode-results-bottom .result-loser{font-size:clamp(15px,1.7vw,19px)!important;color:#d0d2d9!important;overflow-wrap:anywhere}
+#results,#transcript,#essay,#ep23-transcript,#ep23-essay{scroll-margin-top:90px}
+@media(max-width:520px){.episode-results-bottom .results-match{grid-template-columns:minmax(0,1fr) 25px minmax(0,1fr)!important;gap:6px!important}}
