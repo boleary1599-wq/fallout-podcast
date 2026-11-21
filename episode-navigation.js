@@ -15,6 +15,7 @@ function install(){
       history.replaceState(null,'','#'+id);
     });
   });
+  document.querySelectorAll('.episode-back-to-top button').forEach(function(button){if(button.dataset.fallTopBound)return;button.dataset.fallTopBound='1';button.addEventListener('click',function(){window.scrollTo({top:0,behavior:'instant'});history.replaceState(null,'',location.pathname+location.search);});});
   var results=document.getElementById('results');
   if(results&&!document.querySelector('.episode-back-to-top')){
     var wrap=document.createElement('div');
