@@ -1,5 +1,5 @@
 # F.A.L.L.O.U.T. — MASTER EPISODE SPECIFICATION
-Version: 1.3 — 22 November 2026
+Version: 1.4 — 22 November 2026
 Repository: boleary1599-wq/fallout-podcast
 Published site: https://boleary1599-wq.github.io/fallout-podcast/
 
@@ -70,6 +70,12 @@ The navigation links may jump to sections lower on the page; the Results section
 - **Check generated markup, not just word count.** Programmatically assert each heading closes before prose starts; verify all section headings and deck/byline are separate nodes. Inspect source around the start of the essay. Do not claim visual QA unless a browser screenshot/render has actually been inspected.
 - **Fix root causes in the existing CSS block.** Do not append yet another stylesheet or override layer. Where a global selector interferes, use targeted selectors within the episode's existing style block or refactor the original rules.
 - **Prepublish checklist:** zero oversized gaps, artwork and all three boxes exactly edge-aligned, equal box heights and type sizes, essay title/deck/byline/section headings/body in distinct properly sized elements, and desktop/mobile no horizontal overflow.
+
+## EP31 VERIFIED ROOT CAUSE AND CONSISTENT EDITORIAL PANELS (22 Nov 2026)
+- **Critical global CSS trap:** `styles.css` contains a legacy **MASTER 56** rule applying `::after` to `.page-body .jump`, inserting a `height:clamp(190px,30vw,330px)` pseudo-element with an extra cover image. When the page already includes a real artwork figure BEFORE navigation, this pseudo-element becomes an invisible/duplicate 190–330px grid row and creates a massive gap before the essay. On pages using the real artwork element, explicitly disable the pseudo-element in the EXISTING episode stylesheet: `.page-body.wrap .jump::after{content:none!important;display:none!important;height:0!important;margin:0!important}`. Better long-term: remove/refactor the legacy global pseudo-element only after auditing affected earlier episodes.
+- **Essay and transcript must share the SAME visual treatment:** matching 850px outer width, cream `#f2efe4` panel background, navy `#18243c` text, identical panel padding, matching heading family and hierarchy, matching Georgia body text ~16–18px/1.8. The transcript must NOT suddenly switch to a dark navy container with separate white rounded cards for each passage. Use continuous cream paper with discreet dividers between turns. The results may remain navy/yellow.
+- Inspect both the page's actual HTML and global CSS for generated content/pseudo-elements and inherited spacing, especially if a large gap persists after fixing normal margins. Screenshots take priority over assumptions.
+- Keep original episode artwork above navigation, navigation immediately above essay with 12–24px spacing, and a modest 20–30px gap between essay and transcript.
 
 ## Essay standards — MANDATORY FOR EVERY NEW EPISODE
 - **Length: 1,500–2,000 words** of actual essay prose, excluding transcript, results and navigation. Count words before publishing. Do not silently deliver 150–200 words.
