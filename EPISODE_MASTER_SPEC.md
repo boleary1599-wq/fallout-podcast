@@ -1,5 +1,5 @@
 # F.A.L.L.O.U.T. — MASTER EPISODE SPECIFICATION
-Version: 1.7 — 22 November 2026
+Version: 1.8 — 22 November 2026
 Repository: boleary1599-wq/fallout-podcast
 Published site: https://boleary1599-wq.github.io/fallout-podcast/
 
@@ -130,6 +130,14 @@ The navigation links may jump to sections lower on the page; the Results section
 [ ] Commit once with a clear message; verify successful commit and ideally refetch file.
 [ ] Report actual changes and any outstanding limitations honestly.
 
+## Rotating fictional Fall-related essay authors — PERMANENT RULE
+- **Every new episode essay MUST have a different fictional author byline inspired by The Fall.** No permanent house critic, no repetitive reuse of Dr. M. Hexen, Professor D. Temperance or any other recent byline. Choose a fresh invented name for EACH episode, referencing a Fall song, lyric, album, character, personnel or recurring mythology.
+- Names should be witty, varied, plausible as eccentric critics and recognisably Fall-connected. Vary titles and roles (e.g. Dr., Reverend, Inspector, Sister, Esq., ordinary names); do not just swap one academic title for another.
+- Examples for inspiration ONLY, not a fixed rotation: J. Hanley, Esq.; Sister Fiery Jack; Neville Pseud; Inspector Kicker; R. D. Container; Reverend B. B. Slates; Dr. C. B. Melling. Invent further names rather than cycling endlessly through these examples.
+- The byline is a **fictional editorial persona**, not a real critic or a claim that a real person wrote the essay. Where helpful, identify it as a fictional byline.
+- Pick a name that suits the episode's musical/literary themes, and keep it consistent between the approved essay and the published HTML. Do not change previously approved bylines unless asked.
+- **Established examples:** Episode 34 — Dr. M. Hexen; Episode 35 — Professor D. Temperance. Episode 36 must use a different, newly invented Fall-related name.
+
 ## Approved current reference and Episode 34 handover — 22 November 2026
 - **Episode 31 remains the approved layout/code reference:** `episodes/podbean-72be194d2fc8c8.html`. Episode 6 is the older visual benchmark. Do not default to Episode 30 or copy Episode 34 blindly; inspect 31 and the current target.
 - **Episode 34 is available as a recent worked example:** `episodes/podbean-c72dc730fd0dbb.html`; original transcript `transcripts/ep034.txt`. Title: *Mr Gates Is Aghast!*; 20 February 2022; guest Chris Barrow. Original Podbean audio/player and early-era artwork are already in the HTML. Its essay *The Art of Getting It Wrong* has seven sections and approximately 1,759 words in the currently fetched page. The page has 142 grouped transcript turns and four winner/loser matchup rows.
@@ -148,7 +156,7 @@ FIRST fetch and read the current `EPISODE_MASTER_SPEC.md` from connected GitHub 
 
 Find the exact target page, original Podbean audio, artwork, date, results and existing `transcripts/epNNN.txt`. Read the FULL transcript. If absent, acquire original audio and transcribe with Whisper small English if available, timestamp and correct confidently identifiable Fall names/song titles, then commit and verify the raw transcript; remove only temporary downloaded audio after verification. Handle this without asking me to move/download files if possible.
 
-**ESSAY FIRST — DO NOT PUBLISH YET.** Write 1,500–2,000 ACTUALLY COUNTED words of original Quietus-level criticism using the transcript's ideas as the intellectual core, 4–8 thematic sections, mixed songs, musical specificity, Fall expertise, high/low cultural references, strange humour and no generic AI prose. Do not mention podcast hosts/discussion in the essay. Check factual claims; self-score against the Anti-Bollocks rubric, aim ≥85. **SHOW ME THE COMPLETE ESSAY AND WAIT FOR MY EXPLICIT APPROVAL BEFORE COMMITTING THE EPISODE PAGE.**
+**ESSAY FIRST — DO NOT PUBLISH YET.** Choose a NEW, never-recently-used fictional Fall-inspired author byline for this episode (vary the type of name/title; see rotating-author rule). Write 1,500–2,000 ACTUALLY COUNTED words of original Quietus-level criticism using the transcript's ideas as the intellectual core, 4–8 thematic sections, mixed songs, musical specificity, Fall expertise, high/low cultural references, strange humour and no generic AI prose. Do not mention podcast hosts/discussion in the essay. Check factual claims; self-score against the Anti-Bollocks rubric, aim ≥85. **SHOW ME THE COMPLETE ESSAY AND WAIT FOR MY EXPLICIT APPROVAL BEFORE COMMITTING THE EPISODE PAGE.**
 
 After approval, reuse Episode 31's approved structure: header/Patreon → four heads → white/yellow title → original Podbean player → correct artwork → three equal-width nav links → approved essay → full timestamped transcript → four matchups showing winners AND losers → back to top. One 850px centred column; matching cream/navy Georgia-style essay and transcript; no giant gaps; disable legacy `.page-body .jump::after` artifact without accumulating CSS patches.
 
