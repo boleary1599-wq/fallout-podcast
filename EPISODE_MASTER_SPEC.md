@@ -1,5 +1,5 @@
 # F.A.L.L.O.U.T. — MASTER EPISODE SPECIFICATION
-Version: 1.9 — 22 November 2026
+Version: 2.0 — 22 November 2026
 Repository: boleary1599-wq/fallout-podcast
 Published site: https://boleary1599-wq.github.io/fallout-podcast/
 
@@ -86,7 +86,7 @@ The navigation links may jump to sections lower on the page; the Results section
 - **Length: 1,500–2,000 words** of actual essay prose, excluding transcript, results and navigation. Count words before publishing. Do not silently deliver 150–200 words.
 - **The Quietus-level criticism**: original, ambitious, specific, funny, intellectually engaged and rooted in the music, not generic AI review language.
 - Read the **complete original episode transcript** first. Extract concrete musical observations, disputed readings, jokes, production details, comparisons and unexpected high/low cultural references from it. Use additional outside references and verified Fall knowledge where they genuinely deepen the argument; distinguish documented facts from interpretation.
-- Build a **single coherent critical argument** with thematic sections (usually 4–8). Mix, cross-reference, contrast and return to the songs across sections. **NEVER make one section per song**, nor disguise eight track-by-track mini-reviews as themes.
+- Build a **single coherent critical argument** as a sustained narrative. Prefer no conventional section headings or just 2–3 unobtrusive breaks where the narrative genuinely needs them; do not mechanically split an essay into 4–8 mini-articles. Mix, cross-reference, contrast and return to the songs throughout. **NEVER make one section per song**, nor disguise eight track-by-track mini-reviews as themes.
 - **Do not mention the podcast hosts, guests, panel, episode discussion, transcript or voting inside the essay.** The result must read as independent music criticism, not a podcast recap.
 - Balance highbrow references (literature, philosophy, art, theory) with lowbrow references (regional British culture, television, comics, sport, pubs, pop, absurdity). References must be pertinent and illuminating, not a random name-dropping list.
 - Ground claims in audible details: guitar, drums, voice, groove, structure, production, period, performance, lyrics where verified. Include genuine Fall expertise.
@@ -94,6 +94,17 @@ The navigation links may jump to sections lower on the page; the Results section
 - Do not invent lyrics, events, quotes, recordings, biographical facts or transcript evidence. Verify external facts where necessary.
 - Anti-Bollocks scorecard: Musical specificity /25; Fall expertise /20; transcript fidelity /20; original criticism /15; voice/humour /10; economy /10. Target at least 85/100.
 - If user wants to approve the essay, present it in chat first and publish only after approval. Preserve the **full approved text** when inserting it into HTML; don't substitute a shorter version.
+
+## Editorial benchmark: Nige Tassell in The Quietus (approved 22 Nov 2026)
+- **Reference:** Nige Tassell, “From Langley Park to Mendips: Driving Through the Prefab Sprout Back Catalogue”, *The Quietus*, 7 November 2026. This is an APPROVED model for editorial rhythm, natural humour, narrative continuity and paragraph development; do not imitate or reproduce its wording or invent a comparable first-person journey.
+- **Narrative first:** Establish one compelling, transcript-grounded story or critical question, and let the musical evidence unfold within it. Albums and songs are evidence within the argument, not obligatory separate chapters or a release-by-release checklist.
+- **Continuous prose:** Prefer an uninterrupted essay with perhaps two simple section breaks; conventional subheadings are optional, not the default. Never use eight headings merely to simulate structure.
+- **Developed paragraphs:** Usually roughly 70–150 words, with natural variation. Avoid repeated one-sentence paragraphs, artificial dramatic line breaks and punchline-per-paragraph cadence. A short paragraph must earn its emphasis.
+- **Restraint and specificity:** Humour should arise from observed detail, real musical contrasts, place and cultural context. Do not fill the essay with clever-sounding metaphors, generic grand pronouncements, or gratuitous references to Kafka, Ballard, etc. High/low references should do analytical work.
+- **Human editorial voice:** Trust the reader, allow ambiguity and competing interpretations, and follow an idea across several connected paragraphs rather than presenting a string of isolated aphorisms. The ending should grow out of the opening and evidence, not announce a sweeping moral.
+- **Source backbone:** Read the entire episode transcript and extract its specific observations, contradictions, musical details, comparisons and tangents. Transform them into independent criticism without referring to the hosts or pretending to have witnessed unverified events.
+- **Example, Episode 37:** The story is the changing personnel, Marcia Schofield's keyboard contribution, Dave Bush's arrival, the guitar/drums/programming tension, studio-versus-Peel differences, and the contradictory success of “Free Range”. Do not merely write four sequential album reviews. The earlier Episode 37 essay was rejected for exactly this failure; do not treat its publication as editorial approval.
+- **Approval remains mandatory:** Show the full revised essay, verified 1,500–2,000-word count and Anti-Bollocks assessment, and wait for explicit approval before publishing.
 
 ## Transcript standards — MANDATORY FOR EVERY NEW EPISODE
 - **COMPLETE TRANSCRIPT, no omissions.** Read the exact original source file, preserve every available spoken passage in order, including intro, all song discussions, voting, tangents and closing. Do not paraphrase the dialogue or invent missing material.
