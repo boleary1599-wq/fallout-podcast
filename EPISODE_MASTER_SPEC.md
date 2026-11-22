@@ -1,5 +1,5 @@
 # F.A.L.L.O.U.T. — MASTER EPISODE SPECIFICATION
-Version: 1.8 — 22 November 2026
+Version: 1.9 — 22 November 2026
 Repository: boleary1599-wq/fallout-podcast
 Published site: https://boleary1599-wq.github.io/fallout-podcast/
 
@@ -129,6 +129,13 @@ The navigation links may jump to sections lower on the page; the Results section
 [ ] Check desktop and mobile rendering if a browser/screenshot facility is available; if not, say visual verification was not possible.
 [ ] Commit once with a clear message; verify successful commit and ideally refetch file.
 [ ] Report actual changes and any outstanding limitations honestly.
+
+## ABSOLUTE BAN: generic transcript speaker placeholders
+- **NEVER publish a transcript turn with the speaker label "Conversation".** This is specifically prohibited, alongside "Unknown", "Speaker A/B", "Speaker unverified", "Unattributed", "Narrator", "Voice", "Participant", or similar generic stand-ins.
+- **Every transcript turn must have a PERSON'S NAME, even when attribution is uncertain.** The user explicitly prefers a best-effort named guess to any placeholder. In episodes with guests, consider the guests as well as Brendan, Phil, Ezra and Al.
+- Determine names from introductions, who is being addressed, question-and-answer continuity, characteristic opinions, and nearby dialogue; audio-verify where possible. Never simply rotate names, use fixed-length time windows as speakers, or label everybody Brendan.
+- It is acceptable to be wrong; it is not acceptable to hide missing attribution behind "Conversation". Give one honest disclosure near the transcript introduction that names are best-effort and not audio-verified, plus a link to the raw source.
+- **Pre-publication gate:** Search the rendered HTML for forbidden generic labels (especially `class="speaker-tag">Conversation`) and refuse to declare completion until all transcript turns carry actual personal names.
 
 ## Rotating fictional Fall-related essay authors — PERMANENT RULE
 - **Every new episode essay MUST have a different fictional author byline inspired by The Fall.** No permanent house critic, no repetitive reuse of Dr. M. Hexen, Professor D. Temperance or any other recent byline. Choose a fresh invented name for EACH episode, referencing a Fall song, lyric, album, character, personnel or recurring mythology.
