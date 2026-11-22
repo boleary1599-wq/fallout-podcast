@@ -1,5 +1,5 @@
 # F.A.L.L.O.U.T. — MASTER EPISODE SPECIFICATION
-Version: 1.6 — 22 November 2026
+Version: 1.7 — 22 November 2026
 Repository: boleary1599-wq/fallout-podcast
 Published site: https://boleary1599-wq.github.io/fallout-podcast/
 
@@ -130,18 +130,31 @@ The navigation links may jump to sections lower on the page; the Results section
 [ ] Commit once with a clear message; verify successful commit and ideally refetch file.
 [ ] Report actual changes and any outstanding limitations honestly.
 
+## Approved current reference and Episode 34 handover — 22 November 2026
+- **Episode 31 remains the approved layout/code reference:** `episodes/podbean-72be194d2fc8c8.html`. Episode 6 is the older visual benchmark. Do not default to Episode 30 or copy Episode 34 blindly; inspect 31 and the current target.
+- **Episode 34 is available as a recent worked example:** `episodes/podbean-c72dc730fd0dbb.html`; original transcript `transcripts/ep034.txt`. Title: *Mr Gates Is Aghast!*; 20 February 2022; guest Chris Barrow. Original Podbean audio/player and early-era artwork are already in the HTML. Its essay *The Art of Getting It Wrong* has seven sections and approximately 1,759 words in the currently fetched page. The page has 142 grouped transcript turns and four winner/loser matchup rows.
+- **Episode 34 results, checked against its page and closing transcript:** New Face in Hell > Rollin' Dany; I'm Frank > Just Waiting; The Early Life of Crying Marshal > Pearl City; Remainderer > Pre-MDMA Years.
+- **Approval gate:** The user wants to read and approve the ESSAY before a new page is published. First produce the full 1,500–2,000-word essay with an actual count, invite approval, and only then commit the episode page. Do not treat praise for an earlier episode as approval for a new essay.
+- **Essay source discipline:** Read the complete existing transcript first, build an original argument around the recording's distinctive observations, and research/verify uncertain historical or discographical claims. Avoid invented facts and song-by-song section structure. Preserve the user's approved wording when building the page.
+- **Attribution honesty:** Do not cycle speaker names mechanically or infer identity from timestamp gaps alone. Use direct address, question-answer continuity and voice/audio evidence if accessible. Where audio is not checked, disclose uncertainty once at the top. A page containing named turns is not proof that identities are correct. Keep the original raw transcript available.
+- **QA distinctions:** HTML inspection can establish source structure, word count, anchors and content; it does NOT establish desktop/mobile visual appearance. Never claim browser or screenshot QA without actually rendering the page. Inspect alignment and gaps visually wherever tools allow.
+- **CSS:** Disable the legacy `.page-body .jump::after` pseudo-element for artwork-bearing pages at its underlying source/canonical layout rule. Do not stack new overrides. Keep 850px alignment, equal-width nav boxes, cream paper sections, and results after transcript.
+- **GitHub:** Fetch current blob SHA before edits; update the correct episode file; refetch to confirm. Do not claim an update was made if it was not. Do not delete original hosted audio.
+
 ## Copy-paste handover prompt for a new chat
-We're continuing work on my F.A.L.L.O.U.T. podcast website. The next episode is number **(N)**.
+Continue my F.A.L.L.O.U.T. website. NEXT EPISODE: **[NUMBER]**. GitHub: `boleary1599-wq/fallout-podcast`.
 
-Repository: `boleary1599-wq/fallout-podcast`.
+FIRST fetch and read the current `EPISODE_MASTER_SPEC.md` from connected GitHub (currently v1.7). Follow it, not memory. Use Episode 31 (`episodes/podbean-72be194d2fc8c8.html`) as the APPROVED layout reference; Episode 6 is the visual benchmark; Episode 34 (`episodes/podbean-c72dc730fd0dbb.html`) is a recent worked example.
 
-**FIRST** use the connected GitHub tools to read `EPISODE_MASTER_SPEC.md` in the repository root, then inspect the actual target episode, Episode 6 as the visual reference, Episode 30 as the current working example, and the shared CSS/JS. Follow the master page order. Do not pile new CSS fixes on top of old ones.
+Find the exact target page, original Podbean audio, artwork, date, results and existing `transcripts/epNNN.txt`. Read the FULL transcript. If absent, acquire original audio and transcribe with Whisper small English if available, timestamp and correct confidently identifiable Fall names/song titles, then commit and verify the raw transcript; remove only temporary downloaded audio after verification. Handle this without asking me to move/download files if possible.
 
-Write a **1,500–2,000-word Quietus-level essay** rooted in the full transcript, enriched with relevant highbrow and lowbrow references from the transcript and beyond. Make a cohesive thematic argument that mixes the songs across sections — **NOT one section per song**. Do not mention the hosts or podcast in the essay. Use musical specificity, verified Fall knowledge and eccentric humour. Preserve the full approved essay.
+**ESSAY FIRST — DO NOT PUBLISH YET.** Write 1,500–2,000 ACTUALLY COUNTED words of original Quietus-level criticism using the transcript's ideas as the intellectual core, 4–8 thematic sections, mixed songs, musical specificity, Fall expertise, high/low cultural references, strange humour and no generic AI prose. Do not mention podcast hosts/discussion in the essay. Check factual claims; self-score against the Anti-Bollocks rubric, aim ≥85. **SHOW ME THE COMPLETE ESSAY AND WAIT FOR MY EXPLICIT APPROVAL BEFORE COMMITTING THE EPISODE PAGE.**
 
-**Audio/transcription workflow:** First check for an existing transcript in GitHub. Otherwise locate the official original Podbean MP3, acquire a temporary copy, use Whisper **small** in English where available, verify and upload the full transcript to GitHub, then delete only the temporary MP3 after confirming the upload. Handle this yourself using connected tools; the user should ideally do nothing beyond supplying episode number, with at most an occasional short copy-and-paste Terminal command if necessary. Never delete the original hosted audio or invent successful tool actions.\n\nCreate a **complete, readable, timestamped, fully speaker-attributed transcript**. Identify all turns with best-effort named speaker attributions based on audio and context; never show 'Speaker unverified' or anonymous placeholder labels. State any attribution uncertainty once at the transcript start. Merge adjacent segments into readable same-speaker turns rather than timestamp-by-timestamp cards. No arbitrary song-pair headings or large gaps within the transcript.
+After approval, reuse Episode 31's approved structure: header/Patreon → four heads → white/yellow title → original Podbean player → correct artwork → three equal-width nav links → approved essay → full timestamped transcript → four matchups showing winners AND losers → back to top. One 850px centred column; matching cream/navy Georgia-style essay and transcript; no giant gaps; disable legacy `.page-body .jump::after` artifact without accumulating CSS patches.
 
-Show all four results with both winners and losers, **after the transcript**. Keep the three equal-width navigation boxes **below the artwork**. Verify title typography, 850px alignment, audio, artwork, desktop/mobile spacing and CSS before publishing. Tell me about any verification limitations.
+Attribute all spoken passages to named speakers using conversational evidence, NOT arbitrary cycling; merge consecutive segments into readable turns; no anonymous turns or repeated uncertainty labels. If not audio-verified, disclose once at the transcript start and retain a link to the original raw transcript. Do not claim audio verification without listening.
+
+Check actual word count, completeness, titles, results, links, original audio, artwork and source markup. Render-check desktop/mobile if tools permit; otherwise state explicitly that visual QA was not done. Commit through connected GitHub tools and refetch the updated file to verify. Report honestly what remains unverified.
 
 ## Current status at creation
 Episode 30 is live but its implementation still has CSS patch accumulation. Its layout order was recently corrected to artwork → nav links → essay → transcript → results. A proper CSS consolidation/refactor and visual QA are NEXT TASKS, not already completed.
