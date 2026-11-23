@@ -191,3 +191,8 @@ Episode 30 is live but its implementation still has CSS patch accumulation. Its 
 - Identify plausible names from the episode introduction and actual dialogue (Brendan, Phil, Ezra, Al and named guests as appropriate). Use direct address, response continuity and nearby context to make the strongest guess; don't mechanically rotate names or assign by elapsed time alone.
 - Merge machine timestamps into readable conversational turns, retaining all speech. Use just the guessed name and timestamp on each turn. Put one short disclosure at the transcript beginning that attributions are contextual guesses, not audio-verified. Keep the raw source linked.
 - **Before committing, reject any generated HTML containing generic speaker labels**, especially `class="speaker-tag">Recording`. A transcript with placeholder names is not finished and must not be presented as published/completed.
+
+
+## EPISODE NAVIGATION AND ESSAY TITLE — 23 NOVEMBER 2026
+- **Navigation must jump instantly.** Clicking Read the Essay, Results, or Read the Transcript should land directly at the destination, with no animated scrolling through the page. Avoid `scroll-behavior:smooth` in episode pages; explicitly use `html{scroll-behavior:auto!important}` when overriding the global stylesheet, and check any JavaScript anchor navigation also uses instant scrolling. Verify all three links.
+- **Essay titles must be editorially distinctive, not generic restatements of the episode question or central thesis.** Present a compelling, specific title for approval with the essay. If the user rejects a title, change the heading only; do not silently rewrite the approved essay, subtitle or byline. Episode 39's revised essay title is “A Rhythm With Previous Owners”.
