@@ -184,3 +184,10 @@ Check actual word count, completeness, titles, results, links, original audio, a
 
 ## Current status at creation
 Episode 30 is live but its implementation still has CSS patch accumulation. Its layout order was recently corrected to artwork → nav links → essay → transcript → results. A proper CSS consolidation/refactor and visual QA are NEXT TASKS, not already completed.
+
+## ABSOLUTE ATTRIBUTION RULE — GUESS A NAME, NEVER A PLACEHOLDER (23 November 2026)
+- When audio verification is unavailable, **make a best-effort contextual guess for EVERY turn**. The user explicitly prefers a plausible named attribution, even if imperfect, over any generic label.
+- **NEVER publish “Recording”** as a speaker label. Equally forbidden: “Conversation”, “Unknown”, “Speaker”, “Speaker A/B”, “Unverified”, “Participant”, “Narrator”, or any similar non-person label. This prohibition applies to interim published pages too.
+- Identify plausible names from the episode introduction and actual dialogue (Brendan, Phil, Ezra, Al and named guests as appropriate). Use direct address, response continuity and nearby context to make the strongest guess; don't mechanically rotate names or assign by elapsed time alone.
+- Merge machine timestamps into readable conversational turns, retaining all speech. Use just the guessed name and timestamp on each turn. Put one short disclosure at the transcript beginning that attributions are contextual guesses, not audio-verified. Keep the raw source linked.
+- **Before committing, reject any generated HTML containing generic speaker labels**, especially `class="speaker-tag">Recording`. A transcript with placeholder names is not finished and must not be presented as published/completed.
