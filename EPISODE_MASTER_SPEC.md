@@ -278,3 +278,12 @@ Episode 30 is live but its implementation still has CSS patch accumulation. Its 
 - Split only on an actual change of voice (or an identified music excerpt). Preserve every spoken word in order and never merge different speakers just because the generated names happen to match; audit attribution against the dialogue/audio first. Never use arbitrary 6-, 14-, 18- or 22-segment caps to force new speaker labels.
 - **This is a hard pre-publish test:** count adjacent same-name transcript blocks and reject publication if any remain. The source transcript and visible reading version are different: do not delete source segments when merging their display.
 - **Bible maintenance:** consolidate rather than append new duplicate instructions. If historical notes conflict with the active requirements, the active requirements take precedence. Avoid growing this bible with episode-specific workaround logs; maintain a short canonical checklist separately from archival incident notes.
+
+
+## Mandatory fast transcription workflow (24 November 2026)
+
+- For missing transcripts, use **MLX Whisper Small on Apple Silicon** (`mlx-community/whisper-small-mlx` via `mlx_whisper`), not the standard CPU Whisper CLI. Previous successful batch runs reportedly took approximately 2–5 minutes per episode; actual duration varies.
+- Check existing archives and repository first. Reuse downloaded audio, existing MLX environment and cached model; verify paths rather than assuming them. Preserve timestamps and verify the complete transcript before committing.
+- Do not silently fall back to standard CPU Whisper or start a multi-hour transcription. If MLX is unavailable, explain the blocker before proceeding.
+- Prefer direct Mac-to-GitHub transfer of verified transcripts rather than repeated manual uploads. Do not claim that the transfer pipeline is operational until tested.
+- This rule supersedes any earlier generic instruction to use Whisper Small for local transcription.
