@@ -287,3 +287,8 @@ Episode 30 is live but its implementation still has CSS patch accumulation. Its 
 - Do not silently fall back to standard CPU Whisper or start a multi-hour transcription. If MLX is unavailable, explain the blocker before proceeding.
 - Prefer direct Mac-to-GitHub transfer of verified transcripts rather than repeated manual uploads. Do not claim that the transfer pipeline is operational until tested.
 - This rule supersedes any earlier generic instruction to use Whisper Small for local transcription.
+
+
+### Verified local workflow — EP48, 25 November 2026
+
+The existing environment at `$HOME/Downloads/fallout_website 14/.venv/bin/python` successfully ran `mlx_whisper.transcribe` with `path_or_hf_repo='mlx-community/whisper-small-mlx', language='en', verbose=True` under `caffeinate -i`, writing timestamped segments to a text file. EP48 (79 minutes) completed in approximately five to six minutes. GitHub CLI is now installed and authenticated on the Mac; direct transfer was verified by fetching `transcripts/ep048.txt` from GitHub (942 lines). For new transcript paths, use `gh api --method PUT repos/boleary1599-wq/fallout-podcast/contents/transcripts/epNNN.txt -f message='Add MLX Whisper transcript' -f content="$(base64 -i "$TRANSCRIPT" | tr -d '\n')"` with the correct episode number and local file path. Check for existing remote files before writing; never overwrite without checking the existing blob SHA. Combine local transcription and transfer into one command where feasible. No manual upload required. Verify remote transcript before deleting temporary audio.
