@@ -301,3 +301,5 @@ The existing environment at `$HOME/Downloads/fallout_website 14/.venv/bin/python
 - Preserve every spoken word; do not invent punctuation or delete text merely to conceal a bad boundary. Best contextual speaker guesses remain permitted; disclose approximate attribution once. Audit all boundaries before publishing and distinguish text-based checks from audio-verified diarization.
 
 - RETROSPECTIVE REQUIREMENT: Apply this audit to every previously published transcript, EP01 onward. Check mixed-speaker passages, erroneous Music labels, sentence continuity and redundant consecutive labels. Synchronise corrected attributed files with published HTML where present; preserve raw transcripts, essays, artwork and results. Record per-episode corrections and distinguish screening from completed manual boundary review.
+
+- Transcript visual standard: no yellow or other vertical speaker borders, boxes or shadows. Use cream paper, navy text, aligned speaker labels and subtle horizontal separators only. Applies to the entire archive.
