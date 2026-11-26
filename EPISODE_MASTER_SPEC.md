@@ -303,3 +303,5 @@ The existing environment at `$HOME/Downloads/fallout_website 14/.venv/bin/python
 - RETROSPECTIVE REQUIREMENT: Apply this audit to every previously published transcript, EP01 onward. Check mixed-speaker passages, erroneous Music labels, sentence continuity and redundant consecutive labels. Synchronise corrected attributed files with published HTML where present; preserve raw transcripts, essays, artwork and results. Record per-episode corrections and distinguish screening from completed manual boundary review.
 
 - Transcript visual standard: no yellow or other vertical speaker borders, boxes or shadows. Use cream paper, navy text, aligned speaker labels and subtle horizontal separators only. Applies to the entire archive.
+
+- Visual regression check: inspect shared styles.css and episode-local CSS for inherited border-left rules, including :has() and !important overrides. Verify the deployed transcript after a hard refresh; source inspection alone is not visual verification. Shared stylesheet fix committed 26 November 2026 (bf7b92d481c5c1fdd1429fc1bd8c22c2a0fb6aa5).
