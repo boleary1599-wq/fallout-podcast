@@ -307,3 +307,6 @@ The existing environment at `$HOME/Downloads/fallout_website 14/.venv/bin/python
 - Visual regression check: inspect shared styles.css and episode-local CSS for inherited border-left rules, including :has() and !important overrides. Verify the deployed transcript after a hard refresh; source inspection alone is not visual verification. Shared stylesheet fix committed 26 November 2026 (bf7b92d481c5c1fdd1429fc1bd8c22c2a0fb6aa5).
 
 - Long speaker turns must contain natural readable paragraphs, usually 60–120 words, breaking at complete sentences or clear changes of thought. Keep one speaker label and timestamp per continuous turn, not per paragraph. Never split mid-sentence merely to meet a length target. Preserve wording and add visible paragraph spacing. Check long turns in all existing episodes as part of retrospective QA.
+
+## Mandatory essay title selection
+- Extract a shortlist of the strongest distinctive, witty or evocative phrases actually spoken in the episode transcript, with timestamps. Choose the best quotation that also captures the essay's central argument. Avoid generic academic titles. Verify the wording against the source; do not invent quotations or silently rewrite them. Show the strongest candidates when seeking essay approval.
