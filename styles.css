@@ -29,7 +29,7 @@
 .transcript-part h3{margin-bottom:12px;}
 .transcript-part-note{margin-bottom:32px!important;line-height:1.6;}
 .transcript-turn{max-width:740px;margin:0 0 32px;padding:0 0 0 22px;border-left:3px solid #d1cabb;}
-.transcript-turn:has(.speaker-tag:not(.speaker-unknown)){border-left-color:#d0a900;}
+
 .speaker-tag{font:800 12px/1.5 'DM Sans',sans-serif;text-transform:uppercase;letter-spacing:.12em;color:#594b08;margin-bottom:9px;}
 .speaker-unknown{color:#76716b;}
 .transcript-part .transcript-turn p{font:19px/1.95 Georgia,'Times New Roman',serif;max-width:62ch;margin:0;color:#23252d;letter-spacing:.005em;}
@@ -88,7 +88,7 @@
 .transcript-reading a, .transcript-reading a:visited { color:#18243e!important; }
 .transcript-reading .transcript-nav a, .transcript-reading .transcript-nav a:visited {color:#18243e!important;background:#ddd9cf!important;}
 .transcript-reading .transcript-nav a:hover {background:#cbc6ba!important;}
-.transcript-reading .transcript-turn {border-left-color:#66718b!important;}
+
 .episode-character-strip {border:0!important;box-shadow:none!important;}
 
 
@@ -366,3 +366,6 @@ body :is(.page-body .jump, .archive-page [class$="-jump"], .archive-page .jump) 
     margin:12px 0 0;
   }
 }
+
+/* Transcript reading standard: horizontal separators only. */
+body .transcript-turn {border-left:0!important;border-right:0!important;border-radius:0!important;box-shadow:none!important;padding-left:0!important;}
