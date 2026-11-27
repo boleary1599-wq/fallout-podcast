@@ -320,3 +320,7 @@ The existing environment at `$HOME/Downloads/fallout_website 14/.venv/bin/python
 
 ## Current checkpoint — EP52 (27 November 2026)
 - Approved essay **Sodomised by Presumption**, six thematic sections, 2,203 words including headings, retained unchanged despite normal length ceiling. EP51 canonical layout reused, four results and provisional transcript (854 source segments, 47 contextual blocks) published in commit `6f09761b92d98d882f1de7c60d33e54b7f490a74`; exact repository readback verified. Raw transcript unchanged. Speaker boundary and music separation audit, punctuation, independent Archer/Pixies fact check, EP6 visual comparison and deployed rendering remain pending. Not full Bible sign-off.
+
+
+## Editorial sourcing rule — 28 November 2026
+Critical essays must be approximately 90% grounded in the actual episode transcript (arguments, listening observations, disagreements and interpretations), with at most approximately 10% additional editorial insight and contextual references. Prefer relevant popular-cultural references, with high-cultural references where genuinely illuminating. Integrate them throughout rather than bolting them on. Never invent transcript observations or pad with name-dropping; maintain thematic cross-track structure and critical independence. The ratio is an editorial target, not a mechanical word count.
