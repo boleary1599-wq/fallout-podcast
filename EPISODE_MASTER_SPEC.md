@@ -310,3 +310,7 @@ The existing environment at `$HOME/Downloads/fallout_website 14/.venv/bin/python
 
 ## Mandatory essay title selection
 - Extract a shortlist of the strongest distinctive, witty or evocative phrases actually spoken in the episode transcript, with timestamps. Choose the best quotation that also captures the essay's central argument. Avoid generic academic titles. Verify the wording against the source; do not invent quotations or silently rewrite them. Show the strongest candidates when seeking essay approval.
+
+
+## Current checkpoint — EP51 (27 November 2026)
+- Provisional source transcript uploaded to `episodes/podbean-3e44bc65ca3df7.html` in commit `f1f5b2161e24678f1fb165d9513d24d535688fcc`; all 566 source segments verified in repository. Raw transcript retained. Live deployment, speaker attribution, punctuation, approved essay insertion and final layout/results QA remain pending. Not Bible-approved.
