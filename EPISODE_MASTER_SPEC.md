@@ -365,3 +365,5 @@ EP57 approved essay published: Learning How to Hear All Over Again, Professor Ne
 
 ### EP58 checkpoint — 28 November 2026
 Published provisional contextual transcript and confirmed closing-recap results at episodes/podbean-84835e2366f8b7.html. 1296 raw segments mapped into 119 blocks, including 11 music windows. Exact repository readback verified. Original source linked. Contextual attribution, music boundaries, ASR punctuation and long turns require further QA; generic artwork and deployed rendering unverified. Essay pending.
+
+EP58 approved essay published: A Quick Trip to the Ice House, fictional Gregor Bloedel, 1927 whitespace-counted prose words, no internal headings. Approved wording retained; editorial 95/100 and approximately 90:10 source balance. Corrected browser title, instant scroll CSS and canonical transcript class; limited obvious ASR corrections. Page commit db8953f4494c931b89c8148f7153764a09f14d40; exact repository readback verified. Remaining: archive-wide byline uniqueness, detailed speaker/ASR/music audit, original artwork and deployed visual QA. Approved length retained even if above normal ceiling.
