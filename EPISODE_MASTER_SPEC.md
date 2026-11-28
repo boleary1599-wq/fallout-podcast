@@ -336,3 +336,7 @@ EP53 follow-up: middle voting exchanges refined, additional music markers and al
 Approved essay The Sound of a Man's Integrity Dying by Mere Pseud Mag. Edward published with canonical layout and four verified results at episodes/podbean-6f86845dc87b64.html. Source readback verified. Raw transcript linked; speaker attribution, transcript formatting and browser visual QA pending.
 
 EP54 transcript pass: 1132 source segments processed into 93 contextual speaker/music blocks; original timestamped source retained. Selected recognition corrections and paragraph formatting applied. Exact repository readback verified. Intra-turn speaker changes, remaining recognition errors, music boundaries and deployed browser rendering still require independent QA; provisional attribution, not final sign-off.
+
+
+### EP55 checkpoint — 28 November 2026
+Provisional transcript uploaded to episodes/podbean-a6874800513fc6.html; 1542 source segments processed into 48 contextual blocks, original source linked. Album overview replaces showdown results. Essay pending. Detailed attribution, punctuation, music boundaries and visual QA outstanding; not Bible-standard sign-off.
