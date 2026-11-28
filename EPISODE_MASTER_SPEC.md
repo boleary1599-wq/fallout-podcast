@@ -353,3 +353,5 @@ Published Imperfect in the Best Way by fictional J. Crackerfactory (1952 words, 
 EP56 follow-up: corrected four missing music boundaries and reviewed 26:11 long-turn flag; exact page readback verified. Contextual attribution and live rendering still provisional.
 
 EP56 Bible audit: restored separate italic deck, reduced essay headings to three, rebuilt transcript from all 1073 timestamped segments with 197 contextual blocks and nine music windows. Remaining >120s flags: [["26:11","Brendan"]]. Exact repository readback verified. Audio and visual verification remain outstanding; contextual labels and ASR punctuation are provisional.
+
+EP56 approved redraft published: 1807 prose words, three cross-track thematic sections; exact approved essay readback verified. Transcript: manual opening dialogue/punctuation correction and automated whole-transcript capitalisation/end punctuation pass. Original raw transcript retained. Remaining sentence-level punctuation, uncertain ASR, music boundaries, attribution and visual QA not fully verified. Do not equate automated punctuation with complete copyedit.
