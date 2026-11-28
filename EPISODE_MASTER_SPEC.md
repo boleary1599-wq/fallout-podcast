@@ -340,3 +340,5 @@ EP54 transcript pass: 1132 source segments processed into 93 contextual speaker/
 
 ### EP55 checkpoint — 28 November 2026
 Provisional transcript uploaded to episodes/podbean-a6874800513fc6.html; 1542 source segments processed into 48 contextual blocks, original source linked. Album overview replaces showdown results. Essay pending. Detailed attribution, punctuation, music boundaries and visual QA outstanding; not Bible-standard sign-off.
+
+EP55 attribution follow-up: reviewed 15:18–26:55 against source, added contextual speaker changes and archive interview label. Later blocks still need review. Mandatory QA: individually review every speaking turn longer than two minutes; never split arbitrarily or certify unresolved attribution.
