@@ -328,3 +328,5 @@ Critical essays must be approximately 90% grounded in the actual episode transcr
 
 ### EP53 checkpoint — 28 November 2026
 Approved essay and canonical layout published; four results and contextual transcript uploaded. Opening and closing exchanges refined, including split timestamps and music markers. Remaining middle-section speaker attribution, punctuation and music separation require review; browser visual QA outstanding. Do not mark final Bible-standard until checked.
+
+EP53 follow-up: middle voting exchanges refined, additional music markers and aligned speaker/time headings added. Source readback verified; attribution remains contextual and full audio/visual QA outstanding.
