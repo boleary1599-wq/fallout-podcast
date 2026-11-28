@@ -349,3 +349,5 @@ EP55 essay published: The Texture of When Drugs Go Wrong, by fictional Dr. Buckm
 
 ### EP56 checkpoint — 28 November 2026
 Published Imperfect in the Best Way by fictional J. Crackerfactory (1952 words, six thematic sections), title from source 16:24, four results confirmed by final recap at 60:29, and 1073 source segments grouped into 197 contextual speaker/music blocks. Exact repository readback verified. Long-turn screen: ["26:11"]. Source retained; audio verification, fine-grained punctuation and speaker boundaries, original artwork confirmation and live visual QA remain outstanding.
+
+EP56 follow-up: corrected four missing music boundaries and reviewed 26:11 long-turn flag; exact page readback verified. Contextual attribution and live rendering still provisional.
