@@ -358,3 +358,5 @@ EP56 approved redraft published: 1807 prose words, three cross-track thematic se
 
 ### EP57 checkpoint — 28 November 2026
 Canonical layout and provisional contextual transcript published at episodes/podbean-554796452b39ff.html; 1203 raw segments retained in 143 blocks, exact repository readback verified. Essay pending. Long guest narrative and other long turns require sentence-continuity review, music separation, detailed punctuation and audio attribution; generic early artwork not episode-verified. First two results provisional pending external adjudication. Not final Bible approval.
+
+EP57 long-turn audit: 02:12 guest introduction retained as sustained monologue with paragraph breaks; 46:42 guest anecdote continuous until approximately 53:24, subsequent host/guest exchanges split; 70:45 discussion split at contextual interjections. Exact readback verified. Audio attribution and sentence punctuation remain provisional. Essay draft pending approval.
