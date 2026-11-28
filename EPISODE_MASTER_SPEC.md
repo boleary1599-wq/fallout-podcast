@@ -324,3 +324,7 @@ The existing environment at `$HOME/Downloads/fallout_website 14/.venv/bin/python
 
 ## Editorial sourcing rule — 28 November 2026
 Critical essays must be approximately 90% grounded in the actual episode transcript (arguments, listening observations, disagreements and interpretations), with at most approximately 10% additional editorial insight and contextual references. Prefer relevant popular-cultural references, with high-cultural references where genuinely illuminating. Integrate them throughout rather than bolting them on. Never invent transcript observations or pad with name-dropping; maintain thematic cross-track structure and critical independence. The ratio is an editorial target, not a mechanical word count.
+
+
+### EP53 checkpoint — 28 November 2026
+Approved essay and canonical layout published; four results and contextual transcript uploaded. Opening and closing exchanges refined, including split timestamps and music markers. Remaining middle-section speaker attribution, punctuation and music separation require review; browser visual QA outstanding. Do not mark final Bible-standard until checked.
