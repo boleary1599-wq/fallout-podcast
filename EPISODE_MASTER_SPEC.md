@@ -362,3 +362,6 @@ Canonical layout and provisional contextual transcript published at episodes/pod
 EP57 long-turn audit: 02:12 guest introduction retained as sustained monologue with paragraph breaks; 46:42 guest anecdote continuous until approximately 53:24, subsequent host/guest exchanges split; 70:45 discussion split at contextual interjections. Exact readback verified. Audio attribution and sentence punctuation remain provisional. Essay draft pending approval.
 
 EP57 approved essay published: Learning How to Hear All Over Again, Professor Neville Strongpot, 1898 prose words, two thematic breaks. Approved text retained exactly; transcript/results unchanged. Editorial estimate 91/100 and 90:10 source balance, not independently measured. Exact repository readback verified; live visual, audio attribution, artwork and results QA remain outstanding.
+
+### EP58 checkpoint — 28 November 2026
+Published provisional contextual transcript and confirmed closing-recap results at episodes/podbean-84835e2366f8b7.html. 1296 raw segments mapped into 119 blocks, including 11 music windows. Exact repository readback verified. Original source linked. Contextual attribution, music boundaries, ASR punctuation and long turns require further QA; generic artwork and deployed rendering unverified. Essay pending.
